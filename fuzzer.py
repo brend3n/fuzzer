@@ -32,7 +32,7 @@ def run():
     """
     argc = len(sys.argv)
     print(f"num args: {argc}")
-    exec_str = (f'./jpgbmp {sys.argv[1]} {sys.argv[2]}')
+    exec_str = f'./jpgbmp {sys.argv[1]} {sys.argv[2]}'
     print(exec_str)
     exec(exec_str)
 
