@@ -1,16 +1,22 @@
 import sys
 import os
-
+import time
 
 # Modify the jpg pseudo-randomly to trigger bugs
-def mutate(filename):
-    if filename[-4:] != ".jpg":
-        print("JPG files only.")
-        return
+def mutate(iteration, output_filename):
+    
 
-    # Modify contents
-    with open(filename) as jpg:
-        pass
+    # Read File
+    with open("cross.jpg", "rb") as jpg:
+        bytes_d = jpg.read()
+
+    # Do mutations here
+    print("Mutation occurred.")
+
+    filename = f"./{output_filename}/cross_mutated_{iteration}.jpg"
+    # Writing mutated bytes to file
+    with open(filename, "wb") as jpg:
+        jpg.write(bytes_d)
 
 
 def run():
@@ -41,7 +47,13 @@ def run():
     exec_str = f'./jpgbmp {num_iterations}'
     print(exec_str)
     
+    # Output file name for this run
+    time_folder = int(time.time())
+    os.system(f"mkdir {time_folder}")
+
     for i in range(num_iterations):
+        print("Current Mutation: cross_mutated_{i}.jpg")
+        mutate(i, time_folder)
         os.system(exec_str)
     
 
