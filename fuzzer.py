@@ -27,15 +27,23 @@ def run():
     
     Steps:
        1.  Mutate jpg
-       2.  Run program  {./jpgnmp [jpg] [bmp]}
+       2.  Run program  {./jpgbmp [number iterations] [other stuff]}
 
     """
+
     argc = len(sys.argv)
     print(f"num args: {argc}")
-    exec_str = f'./jpgbmp {sys.argv[1]} {sys.argv[2]}'
-    print(exec_str)
-    exec(exec_str)
+    if argc < 2:
+        print("Improper input: ./jpgbmp [# iterations]")
+        exit(0)
+    num_iterations = int(sys.argv[1])
 
+    exec_str = f'./jpgbmp {num_iterations}'
+    print(exec_str)
+    
+    for i in range(num_iterations):
+        os.system(exec_str)
+    
 
 if __name__ == "__main__":
     run()
