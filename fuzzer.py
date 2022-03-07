@@ -10,7 +10,9 @@ def mutate(iteration, output_filename):
         bytes_d = jpg.read()
 
     # Do mutations here
-    print("Mutation occurred.")
+    print("Mutation.")
+    
+    print(f"\nbytes:\n{bytes_d}\n")
 
     filename = f"./{output_filename}/cross_mutated_{iteration}.jpg"
     # Writing mutated bytes to file
@@ -28,19 +30,19 @@ def run():
         exit(0)
 
     num_iterations = int(sys.argv[1])
-
-    # Create command string to execute
-    exec_str = f'./jpgbmp {num_iterations}'
-    # print(exec_str)
     
     # Output file name for this run
     time_folder = int(time.time())
     os.system(f"mkdir {time_folder}")
+    
 
     # Run all the mutations
     for i in range(num_iterations):
-        print("Current Mutation: cross_mutated_{i}.jpg")
+        curr_file = f"cross_mutated_{i}"
+        print(f"Current Mutation: {curr_file}")
         mutate(i, time_folder)
+        # Create command string to execute
+        exec_str = f'./jpgbmp ./{time_folder}/{curr_file}.jpg ./{time_folder}/{curr_file}.bmp'
         os.system(exec_str)
 
 if __name__ == "__main__":
