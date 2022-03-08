@@ -7,7 +7,9 @@ import subprocess
 def get_random_byte_replacement():
     return int.from_bytes(os.urandom(1), 'big')
     
-def read_stdin():
+# ! Having this work will help me figure out how to find the jpg that causes a certain bug to be triggered
+def read_stdout():
+    # Need to use subprocess
     pass
 # Modify the jpg pseudo-randomly to trigger bugs
 def mutate(iteration, output_filename):
@@ -62,6 +64,7 @@ def mutate(iteration, output_filename):
 def evaluate_results():
     print("Evaluating results")
     res_map = {"1":0,"2":0,"3":0,"3":0,"4":0,"5":0,"6":0,"7":0,"8":0, }
+    curr_mutation = None
     with open("output.txt", "r") as file_:
         for line in file_:
             if "You triggered Bug #1 !" in line:
