@@ -4,16 +4,17 @@ import time
 import random
 import subprocess
 
+'''
+Run:
+    python3 fuzzer.py 50 > output.txt 2>&1
+'''
+
+
 def get_random_byte_replacement():
     return int.from_bytes(os.urandom(1), 'big')
-    
-# ! Having this work will help me figure out how to find the jpg that causes a certain bug to be triggered
-def read_stdout():
-    # Need to use subprocess
-    pass
+
 # Modify the jpg pseudo-randomly to trigger bugs
 def mutate(iteration, output_filename):
-
     # Variable to store bytes
     bytes_d = None
     
@@ -41,7 +42,9 @@ def mutate(iteration, output_filename):
     for i in range(num_modifications):
         
         # Random position to modify
-        rand_pos = random.randint(2,len(bytes_d)-2)
+        # rand_pos = random.randint(2,len(bytes_d)-2)
+        random.seed(time.time())
+        rand_pos = random.randint(0,len(bytes_d)-1)
         
         # Get random byte
         rand_byte_replacement = get_random_byte_replacement()
@@ -95,12 +98,26 @@ def evaluate_results():
         
     if count == 0:
         print("Found all bugs!")
+
+"""
+    1. Go through each file and re-run
+    2. On each re-run output results to output.txt
+    3. read output.txt
+    4. rename files based on this    
+"""
+
+def rename(old, new):
+    os.system(f"mv {old} {new}")
+    
+
+        
+        
             
 def run():
 
     # Check for proper input
     argc = len(sys.argv)
-    # print(f"num args: {argc}")
+    
     if argc < 2:
         print("Improper input: ./jpgbmp [# iterations]")
         exit(0)
@@ -122,9 +139,9 @@ def run():
         exec_str = f'./jpgbmp ./{time_folder}/{curr_file}.jpg ./{time_folder}/{curr_file}.bmp'
         os.system(exec_str)
     
-    # time.sleep(10)
     evaluate_results()
-    
+    file_t = f"./{time_folder}"
+    # os.system(f"python3 stream.py {file_t}")
 
 if __name__ == "__main__":
     run()
