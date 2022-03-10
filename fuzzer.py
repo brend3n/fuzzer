@@ -7,6 +7,7 @@ import subprocess
 '''
 Run:
     python3 fuzzer.py 50 > output.txt 2>&1
+    python3 fuzzer.py 50 2>&1 -> how to match bugs to files
 '''
 
 
@@ -42,9 +43,9 @@ def mutate(iteration, output_filename):
     for i in range(num_modifications):
         
         # Random position to modify
-        # rand_pos = random.randint(2,len(bytes_d)-2)
-        random.seed(time.time())
-        rand_pos = random.randint(0,len(bytes_d)-1)
+        rand_pos = random.randint(2,len(bytes_d)-2)
+        # random.seed(time.time())
+        # rand_pos = random.randint(0,len(bytes_d)-1)
         
         # Get random byte
         rand_byte_replacement = get_random_byte_replacement()
@@ -109,10 +110,13 @@ def evaluate_results():
 def rename(old, new):
     os.system(f"mv {old} {new}")
     
-
-        
-        
-            
+def find_bugs_file_names(folder):
+    for file in os.listdir(f"{folder}"):
+        if file.endswith(".jpg"):
+            # print(file)
+            cmd = f"./jpgbmp ./{folder}/{file}.jpg ./{folder}/{file}_del.bmp"
+            output = subprocess.check_output(cmd, shell=True, stderr=subprocess.PIPE)
+            print(f"OUT: {output}")
 def run():
 
     # Check for proper input
@@ -140,8 +144,7 @@ def run():
         os.system(exec_str)
     
     evaluate_results()
-    file_t = f"./{time_folder}"
-    # os.system(f"python3 stream.py {file_t}")
+    # find_bugs_file_names(f"./{time_folder}")
 
 if __name__ == "__main__":
     run()

@@ -1,0 +1,2415 @@
+Current Mutation: cross_mutated_0
+You triggered Bug #5 !
+Segmentation fault (core dumped)
+Current Mutation: cross_mutated_1
+Current Mutation: cross_mutated_2
+Current Mutation: cross_mutated_3
+Current Mutation: cross_mutated_4
+Current Mutation: cross_mutated_5
+Current Mutation: cross_mutated_6
+Current Mutation: cross_mutated_7
+Current Mutation: cross_mutated_8
+You triggered Bug #2 !
+Segmentation fault (core dumped)
+Current Mutation: cross_mutated_9
+Current Mutation: cross_mutated_10
+You triggered Bug #4 !
+Segmentation fault (core dumped)
+Current Mutation: cross_mutated_11
+Current Mutation: cross_mutated_12
+Current Mutation: cross_mutated_13
+Current Mutation: cross_mutated_14
+Current Mutation: cross_mutated_15
+Current Mutation: cross_mutated_16
+Current Mutation: cross_mutated_17
+You triggered Bug #8 !
+Segmentation fault (core dumped)
+Current Mutation: cross_mutated_18
+You triggered Bug #8 !
+Segmentation fault (core dumped)
+Current Mutation: cross_mutated_19
+Current Mutation: cross_mutated_20
+Current Mutation: cross_mutated_21
+Current Mutation: cross_mutated_22
+Current Mutation: cross_mutated_23
+Current Mutation: cross_mutated_24
+Current Mutation: cross_mutated_25
+You triggered Bug #4 !
+Segmentation fault (core dumped)
+Current Mutation: cross_mutated_26
+Current Mutation: cross_mutated_27
+Current Mutation: cross_mutated_28
+Current Mutation: cross_mutated_29
+Current Mutation: cross_mutated_30
+Current Mutation: cross_mutated_31
+You triggered Bug #5 !
+Segmentation fault (core dumped)
+Current Mutation: cross_mutated_32
+Current Mutation: cross_mutated_33
+Current Mutation: cross_mutated_34
+Current Mutation: cross_mutated_35
+Current Mutation: cross_mutated_36
+Current Mutation: cross_mutated_37
+Current Mutation: cross_mutated_38
+Current Mutation: cross_mutated_39
+Current Mutation: cross_mutated_40
+You triggered Bug #5 !
+Segmentation fault (core dumped)
+Current Mutation: cross_mutated_41
+Current Mutation: cross_mutated_42
+Current Mutation: cross_mutated_43
+Current Mutation: cross_mutated_44
+Current Mutation: cross_mutated_45
+Current Mutation: cross_mutated_46
+Current Mutation: cross_mutated_47
+Current Mutation: cross_mutated_48
+Current Mutation: cross_mutated_49
+Current Mutation: cross_mutated_50
+Current Mutation: cross_mutated_51
+Current Mutation: cross_mutated_52
+Current Mutation: cross_mutated_53
+You triggered Bug #4 !
+Segmentation fault (core dumped)
+Current Mutation: cross_mutated_54
+Current Mutation: cross_mutated_55
+Current Mutation: cross_mutated_56
+Current Mutation: cross_mutated_57
+You triggered Bug #8 !
+Segmentation fault (core dumped)
+Current Mutation: cross_mutated_58
+Current Mutation: cross_mutated_59
+Current Mutation: cross_mutated_60
+Current Mutation: cross_mutated_61
+You triggered Bug #2 !
+Segmentation fault (core dumped)
+Current Mutation: cross_mutated_62
+Current Mutation: cross_mutated_63
+Current Mutation: cross_mutated_64
+Current Mutation: cross_mutated_65
+Current Mutation: cross_mutated_66
+Current Mutation: cross_mutated_67
+Current Mutation: cross_mutated_68
+Floating point exception (core dumped)
+Current Mutation: cross_mutated_69
+Current Mutation: cross_mutated_70
+Current Mutation: cross_mutated_71
+Current Mutation: cross_mutated_72
+Current Mutation: cross_mutated_73
+Current Mutation: cross_mutated_74
+Current Mutation: cross_mutated_75
+Current Mutation: cross_mutated_76
+Current Mutation: cross_mutated_77
+Current Mutation: cross_mutated_78
+Current Mutation: cross_mutated_79
+Current Mutation: cross_mutated_80
+Current Mutation: cross_mutated_81
+Current Mutation: cross_mutated_82
+Current Mutation: cross_mutated_83
+Current Mutation: cross_mutated_84
+Current Mutation: cross_mutated_85
+Current Mutation: cross_mutated_86
+Current Mutation: cross_mutated_87
+Current Mutation: cross_mutated_88
+Current Mutation: cross_mutated_89
+Current Mutation: cross_mutated_90
+Current Mutation: cross_mutated_91
+Current Mutation: cross_mutated_92
+Current Mutation: cross_mutated_93
+Current Mutation: cross_mutated_94
+Current Mutation: cross_mutated_95
+Current Mutation: cross_mutated_96
+Current Mutation: cross_mutated_97
+Current Mutation: cross_mutated_98
+Current Mutation: cross_mutated_99
+Current Mutation: cross_mutated_100
+Current Mutation: cross_mutated_101
+Current Mutation: cross_mutated_102
+Current Mutation: cross_mutated_103
+Current Mutation: cross_mutated_104
+Current Mutation: cross_mutated_105
+Segmentation fault (core dumped)
+Current Mutation: cross_mutated_106
+Current Mutation: cross_mutated_107
+Current Mutation: cross_mutated_108
+Current Mutation: cross_mutated_109
+Current Mutation: cross_mutated_110
+Current Mutation: cross_mutated_111
+Current Mutation: cross_mutated_112
+Current Mutation: cross_mutated_113
+Current Mutation: cross_mutated_114
+Current Mutation: cross_mutated_115
+Current Mutation: cross_mutated_116
+Current Mutation: cross_mutated_117
+Current Mutation: cross_mutated_118
+Current Mutation: cross_mutated_119
+You triggered Bug #8 !
+Segmentation fault (core dumped)
+Current Mutation: cross_mutated_120
+Current Mutation: cross_mutated_121
+Segmentation fault (core dumped)
+Current Mutation: cross_mutated_122
+Current Mutation: cross_mutated_123
+Segmentation fault (core dumped)
+Current Mutation: cross_mutated_124
+Current Mutation: cross_mutated_125
+Current Mutation: cross_mutated_126
+Current Mutation: cross_mutated_127
+Current Mutation: cross_mutated_128
+Current Mutation: cross_mutated_129
+Current Mutation: cross_mutated_130
+You triggered Bug #7 !
+Segmentation fault (core dumped)
+Current Mutation: cross_mutated_131
+Current Mutation: cross_mutated_132
+Current Mutation: cross_mutated_133
+Current Mutation: cross_mutated_134
+Current Mutation: cross_mutated_135
+Current Mutation: cross_mutated_136
+Current Mutation: cross_mutated_137
+Current Mutation: cross_mutated_138
+Current Mutation: cross_mutated_139
+Current Mutation: cross_mutated_140
+Current Mutation: cross_mutated_141
+Current Mutation: cross_mutated_142
+Current Mutation: cross_mutated_143
+Current Mutation: cross_mutated_144
+Current Mutation: cross_mutated_145
+Current Mutation: cross_mutated_146
+Floating point exception (core dumped)
+Current Mutation: cross_mutated_147
+Current Mutation: cross_mutated_148
+Current Mutation: cross_mutated_149
+Current Mutation: cross_mutated_150
+Current Mutation: cross_mutated_151
+Current Mutation: cross_mutated_152
+Current Mutation: cross_mutated_153
+Current Mutation: cross_mutated_154
+Current Mutation: cross_mutated_155
+Current Mutation: cross_mutated_156
+Current Mutation: cross_mutated_157
+Current Mutation: cross_mutated_158
+Current Mutation: cross_mutated_159
+Current Mutation: cross_mutated_160
+Current Mutation: cross_mutated_161
+Current Mutation: cross_mutated_162
+Current Mutation: cross_mutated_163
+Current Mutation: cross_mutated_164
+Current Mutation: cross_mutated_165
+You triggered Bug #8 !
+Segmentation fault (core dumped)
+Current Mutation: cross_mutated_166
+Current Mutation: cross_mutated_167
+Current Mutation: cross_mutated_168
+Current Mutation: cross_mutated_169
+Current Mutation: cross_mutated_170
+Current Mutation: cross_mutated_171
+Current Mutation: cross_mutated_172
+Current Mutation: cross_mutated_173
+Current Mutation: cross_mutated_174
+Current Mutation: cross_mutated_175
+Current Mutation: cross_mutated_176
+Current Mutation: cross_mutated_177
+Current Mutation: cross_mutated_178
+Current Mutation: cross_mutated_179
+Current Mutation: cross_mutated_180
+Current Mutation: cross_mutated_181
+Current Mutation: cross_mutated_182
+Current Mutation: cross_mutated_183
+Current Mutation: cross_mutated_184
+Current Mutation: cross_mutated_185
+Current Mutation: cross_mutated_186
+Current Mutation: cross_mutated_187
+You triggered Bug #7 !
+Segmentation fault (core dumped)
+Current Mutation: cross_mutated_188
+Current Mutation: cross_mutated_189
+Current Mutation: cross_mutated_190
+Current Mutation: cross_mutated_191
+Current Mutation: cross_mutated_192
+Current Mutation: cross_mutated_193
+Current Mutation: cross_mutated_194
+Current Mutation: cross_mutated_195
+Current Mutation: cross_mutated_196
+You triggered Bug #5 !
+Segmentation fault (core dumped)
+Current Mutation: cross_mutated_197
+Current Mutation: cross_mutated_198
+You triggered Bug #8 !
+Segmentation fault (core dumped)
+Current Mutation: cross_mutated_199
+Current Mutation: cross_mutated_200
+Current Mutation: cross_mutated_201
+Current Mutation: cross_mutated_202
+Current Mutation: cross_mutated_203
+You triggered Bug #4 !
+Segmentation fault (core dumped)
+Current Mutation: cross_mutated_204
+Current Mutation: cross_mutated_205
+Current Mutation: cross_mutated_206
+Current Mutation: cross_mutated_207
+Current Mutation: cross_mutated_208
+Current Mutation: cross_mutated_209
+Current Mutation: cross_mutated_210
+Current Mutation: cross_mutated_211
+You triggered Bug #8 !
+Segmentation fault (core dumped)
+Current Mutation: cross_mutated_212
+Current Mutation: cross_mutated_213
+Current Mutation: cross_mutated_214
+Current Mutation: cross_mutated_215
+Current Mutation: cross_mutated_216
+Current Mutation: cross_mutated_217
+Current Mutation: cross_mutated_218
+Current Mutation: cross_mutated_219
+Current Mutation: cross_mutated_220
+Current Mutation: cross_mutated_221
+Current Mutation: cross_mutated_222
+Current Mutation: cross_mutated_223
+Current Mutation: cross_mutated_224
+Current Mutation: cross_mutated_225
+Current Mutation: cross_mutated_226
+Current Mutation: cross_mutated_227
+Current Mutation: cross_mutated_228
+Current Mutation: cross_mutated_229
+Current Mutation: cross_mutated_230
+You triggered Bug #4 !
+Segmentation fault (core dumped)
+Current Mutation: cross_mutated_231
+Current Mutation: cross_mutated_232
+Current Mutation: cross_mutated_233
+Current Mutation: cross_mutated_234
+You triggered Bug #4 !
+Segmentation fault (core dumped)
+Current Mutation: cross_mutated_235
+Current Mutation: cross_mutated_236
+Current Mutation: cross_mutated_237
+You triggered Bug #8 !
+Segmentation fault (core dumped)
+Current Mutation: cross_mutated_238
+Current Mutation: cross_mutated_239
+Current Mutation: cross_mutated_240
+Current Mutation: cross_mutated_241
+Current Mutation: cross_mutated_242
+Current Mutation: cross_mutated_243
+Current Mutation: cross_mutated_244
+Current Mutation: cross_mutated_245
+Current Mutation: cross_mutated_246
+Current Mutation: cross_mutated_247
+Current Mutation: cross_mutated_248
+Current Mutation: cross_mutated_249
+Current Mutation: cross_mutated_250
+Current Mutation: cross_mutated_251
+Current Mutation: cross_mutated_252
+Current Mutation: cross_mutated_253
+You triggered Bug #8 !
+Segmentation fault (core dumped)
+Current Mutation: cross_mutated_254
+Current Mutation: cross_mutated_255
+You triggered Bug #2 !
+Segmentation fault (core dumped)
+Current Mutation: cross_mutated_256
+Current Mutation: cross_mutated_257
+Current Mutation: cross_mutated_258
+Current Mutation: cross_mutated_259
+Current Mutation: cross_mutated_260
+Current Mutation: cross_mutated_261
+Current Mutation: cross_mutated_262
+Current Mutation: cross_mutated_263
+Current Mutation: cross_mutated_264
+Current Mutation: cross_mutated_265
+Segmentation fault (core dumped)
+Current Mutation: cross_mutated_266
+Current Mutation: cross_mutated_267
+Current Mutation: cross_mutated_268
+Current Mutation: cross_mutated_269
+Current Mutation: cross_mutated_270
+Current Mutation: cross_mutated_271
+Current Mutation: cross_mutated_272
+Current Mutation: cross_mutated_273
+Current Mutation: cross_mutated_274
+Current Mutation: cross_mutated_275
+Current Mutation: cross_mutated_276
+Current Mutation: cross_mutated_277
+You triggered Bug #8 !
+Segmentation fault (core dumped)
+Current Mutation: cross_mutated_278
+Current Mutation: cross_mutated_279
+You triggered Bug #2 !
+Segmentation fault (core dumped)
+Current Mutation: cross_mutated_280
+You triggered Bug #4 !
+Segmentation fault (core dumped)
+Current Mutation: cross_mutated_281
+Current Mutation: cross_mutated_282
+Current Mutation: cross_mutated_283
+Current Mutation: cross_mutated_284
+Current Mutation: cross_mutated_285
+Current Mutation: cross_mutated_286
+Current Mutation: cross_mutated_287
+Current Mutation: cross_mutated_288
+Current Mutation: cross_mutated_289
+Current Mutation: cross_mutated_290
+Current Mutation: cross_mutated_291
+You triggered Bug #4 !
+Segmentation fault (core dumped)
+Current Mutation: cross_mutated_292
+Current Mutation: cross_mutated_293
+Current Mutation: cross_mutated_294
+Current Mutation: cross_mutated_295
+Current Mutation: cross_mutated_296
+Current Mutation: cross_mutated_297
+Current Mutation: cross_mutated_298
+Current Mutation: cross_mutated_299
+Current Mutation: cross_mutated_300
+Current Mutation: cross_mutated_301
+Current Mutation: cross_mutated_302
+Current Mutation: cross_mutated_303
+Floating point exception (core dumped)
+Current Mutation: cross_mutated_304
+Current Mutation: cross_mutated_305
+Current Mutation: cross_mutated_306
+Current Mutation: cross_mutated_307
+Current Mutation: cross_mutated_308
+Current Mutation: cross_mutated_309
+Current Mutation: cross_mutated_310
+Current Mutation: cross_mutated_311
+Current Mutation: cross_mutated_312
+Current Mutation: cross_mutated_313
+Current Mutation: cross_mutated_314
+Current Mutation: cross_mutated_315
+Current Mutation: cross_mutated_316
+Current Mutation: cross_mutated_317
+Current Mutation: cross_mutated_318
+Current Mutation: cross_mutated_319
+Current Mutation: cross_mutated_320
+Current Mutation: cross_mutated_321
+Current Mutation: cross_mutated_322
+Current Mutation: cross_mutated_323
+Current Mutation: cross_mutated_324
+You triggered Bug #8 !
+Segmentation fault (core dumped)
+Current Mutation: cross_mutated_325
+You triggered Bug #8 !
+Segmentation fault (core dumped)
+Current Mutation: cross_mutated_326
+You triggered Bug #8 !
+Segmentation fault (core dumped)
+Current Mutation: cross_mutated_327
+Current Mutation: cross_mutated_328
+Current Mutation: cross_mutated_329
+Current Mutation: cross_mutated_330
+Current Mutation: cross_mutated_331
+Current Mutation: cross_mutated_332
+Current Mutation: cross_mutated_333
+Current Mutation: cross_mutated_334
+Current Mutation: cross_mutated_335
+Current Mutation: cross_mutated_336
+Current Mutation: cross_mutated_337
+Segmentation fault (core dumped)
+Current Mutation: cross_mutated_338
+Current Mutation: cross_mutated_339
+Current Mutation: cross_mutated_340
+Current Mutation: cross_mutated_341
+Current Mutation: cross_mutated_342
+Current Mutation: cross_mutated_343
+Current Mutation: cross_mutated_344
+You triggered Bug #4 !
+Segmentation fault (core dumped)
+Current Mutation: cross_mutated_345
+Current Mutation: cross_mutated_346
+Current Mutation: cross_mutated_347
+Current Mutation: cross_mutated_348
+Current Mutation: cross_mutated_349
+Current Mutation: cross_mutated_350
+Current Mutation: cross_mutated_351
+Current Mutation: cross_mutated_352
+Current Mutation: cross_mutated_353
+Current Mutation: cross_mutated_354
+You triggered Bug #8 !
+Segmentation fault (core dumped)
+Current Mutation: cross_mutated_355
+Current Mutation: cross_mutated_356
+Current Mutation: cross_mutated_357
+Current Mutation: cross_mutated_358
+Current Mutation: cross_mutated_359
+Current Mutation: cross_mutated_360
+Current Mutation: cross_mutated_361
+You triggered Bug #8 !
+Segmentation fault (core dumped)
+Current Mutation: cross_mutated_362
+You triggered Bug #8 !
+Segmentation fault (core dumped)
+Current Mutation: cross_mutated_363
+Current Mutation: cross_mutated_364
+Current Mutation: cross_mutated_365
+Current Mutation: cross_mutated_366
+Current Mutation: cross_mutated_367
+Current Mutation: cross_mutated_368
+Current Mutation: cross_mutated_369
+Current Mutation: cross_mutated_370
+Current Mutation: cross_mutated_371
+Current Mutation: cross_mutated_372
+Current Mutation: cross_mutated_373
+Current Mutation: cross_mutated_374
+Current Mutation: cross_mutated_375
+Current Mutation: cross_mutated_376
+Current Mutation: cross_mutated_377
+Current Mutation: cross_mutated_378
+Current Mutation: cross_mutated_379
+You triggered Bug #4 !
+Segmentation fault (core dumped)
+Current Mutation: cross_mutated_380
+Current Mutation: cross_mutated_381
+Current Mutation: cross_mutated_382
+Current Mutation: cross_mutated_383
+Current Mutation: cross_mutated_384
+Current Mutation: cross_mutated_385
+You triggered Bug #8 !
+Segmentation fault (core dumped)
+Current Mutation: cross_mutated_386
+Current Mutation: cross_mutated_387
+Current Mutation: cross_mutated_388
+You triggered Bug #5 !
+Segmentation fault (core dumped)
+Current Mutation: cross_mutated_389
+Current Mutation: cross_mutated_390
+Current Mutation: cross_mutated_391
+Current Mutation: cross_mutated_392
+Current Mutation: cross_mutated_393
+Floating point exception (core dumped)
+Current Mutation: cross_mutated_394
+Current Mutation: cross_mutated_395
+Current Mutation: cross_mutated_396
+You triggered Bug #7 !
+Segmentation fault (core dumped)
+Current Mutation: cross_mutated_397
+Current Mutation: cross_mutated_398
+Current Mutation: cross_mutated_399
+Current Mutation: cross_mutated_400
+Current Mutation: cross_mutated_401
+Current Mutation: cross_mutated_402
+Current Mutation: cross_mutated_403
+Current Mutation: cross_mutated_404
+Current Mutation: cross_mutated_405
+Current Mutation: cross_mutated_406
+Current Mutation: cross_mutated_407
+Current Mutation: cross_mutated_408
+You triggered Bug #7 !
+Segmentation fault (core dumped)
+Current Mutation: cross_mutated_409
+Current Mutation: cross_mutated_410
+Current Mutation: cross_mutated_411
+You triggered Bug #7 !
+Segmentation fault (core dumped)
+Current Mutation: cross_mutated_412
+Current Mutation: cross_mutated_413
+You triggered Bug #8 !
+Segmentation fault (core dumped)
+Current Mutation: cross_mutated_414
+Current Mutation: cross_mutated_415
+Current Mutation: cross_mutated_416
+You triggered Bug #8 !
+Segmentation fault (core dumped)
+Current Mutation: cross_mutated_417
+Current Mutation: cross_mutated_418
+You triggered Bug #8 !
+Segmentation fault (core dumped)
+Current Mutation: cross_mutated_419
+Current Mutation: cross_mutated_420
+Current Mutation: cross_mutated_421
+Current Mutation: cross_mutated_422
+Current Mutation: cross_mutated_423
+Current Mutation: cross_mutated_424
+Current Mutation: cross_mutated_425
+Current Mutation: cross_mutated_426
+Current Mutation: cross_mutated_427
+Current Mutation: cross_mutated_428
+Current Mutation: cross_mutated_429
+Current Mutation: cross_mutated_430
+Current Mutation: cross_mutated_431
+Current Mutation: cross_mutated_432
+Current Mutation: cross_mutated_433
+Current Mutation: cross_mutated_434
+You triggered Bug #7 !
+Segmentation fault (core dumped)
+Current Mutation: cross_mutated_435
+Current Mutation: cross_mutated_436
+Current Mutation: cross_mutated_437
+Current Mutation: cross_mutated_438
+Current Mutation: cross_mutated_439
+Current Mutation: cross_mutated_440
+Current Mutation: cross_mutated_441
+Current Mutation: cross_mutated_442
+Current Mutation: cross_mutated_443
+You triggered Bug #4 !
+Segmentation fault (core dumped)
+Current Mutation: cross_mutated_444
+Current Mutation: cross_mutated_445
+Current Mutation: cross_mutated_446
+Current Mutation: cross_mutated_447
+Current Mutation: cross_mutated_448
+Current Mutation: cross_mutated_449
+Current Mutation: cross_mutated_450
+You triggered Bug #4 !
+Segmentation fault (core dumped)
+Current Mutation: cross_mutated_451
+Current Mutation: cross_mutated_452
+Current Mutation: cross_mutated_453
+Current Mutation: cross_mutated_454
+Current Mutation: cross_mutated_455
+Current Mutation: cross_mutated_456
+Current Mutation: cross_mutated_457
+Current Mutation: cross_mutated_458
+Current Mutation: cross_mutated_459
+Current Mutation: cross_mutated_460
+Current Mutation: cross_mutated_461
+Current Mutation: cross_mutated_462
+Current Mutation: cross_mutated_463
+Current Mutation: cross_mutated_464
+Current Mutation: cross_mutated_465
+Segmentation fault (core dumped)
+Current Mutation: cross_mutated_466
+Current Mutation: cross_mutated_467
+Current Mutation: cross_mutated_468
+Current Mutation: cross_mutated_469
+Current Mutation: cross_mutated_470
+Current Mutation: cross_mutated_471
+Current Mutation: cross_mutated_472
+Current Mutation: cross_mutated_473
+Current Mutation: cross_mutated_474
+Current Mutation: cross_mutated_475
+Current Mutation: cross_mutated_476
+Current Mutation: cross_mutated_477
+Current Mutation: cross_mutated_478
+Current Mutation: cross_mutated_479
+Current Mutation: cross_mutated_480
+Current Mutation: cross_mutated_481
+Current Mutation: cross_mutated_482
+Current Mutation: cross_mutated_483
+Current Mutation: cross_mutated_484
+Current Mutation: cross_mutated_485
+Current Mutation: cross_mutated_486
+Current Mutation: cross_mutated_487
+Current Mutation: cross_mutated_488
+Current Mutation: cross_mutated_489
+Current Mutation: cross_mutated_490
+Current Mutation: cross_mutated_491
+Current Mutation: cross_mutated_492
+Current Mutation: cross_mutated_493
+Current Mutation: cross_mutated_494
+Current Mutation: cross_mutated_495
+Current Mutation: cross_mutated_496
+Current Mutation: cross_mutated_497
+Current Mutation: cross_mutated_498
+Current Mutation: cross_mutated_499
+Current Mutation: cross_mutated_500
+Current Mutation: cross_mutated_501
+Current Mutation: cross_mutated_502
+Current Mutation: cross_mutated_503
+Current Mutation: cross_mutated_504
+You triggered Bug #5 !
+Segmentation fault (core dumped)
+Current Mutation: cross_mutated_505
+Current Mutation: cross_mutated_506
+Current Mutation: cross_mutated_507
+Current Mutation: cross_mutated_508
+Current Mutation: cross_mutated_509
+Current Mutation: cross_mutated_510
+Current Mutation: cross_mutated_511
+Current Mutation: cross_mutated_512
+Current Mutation: cross_mutated_513
+Current Mutation: cross_mutated_514
+Current Mutation: cross_mutated_515
+You triggered Bug #8 !
+Segmentation fault (core dumped)
+Current Mutation: cross_mutated_516
+You triggered Bug #8 !
+Segmentation fault (core dumped)
+Current Mutation: cross_mutated_517
+Current Mutation: cross_mutated_518
+Current Mutation: cross_mutated_519
+Current Mutation: cross_mutated_520
+Current Mutation: cross_mutated_521
+Current Mutation: cross_mutated_522
+You triggered Bug #8 !
+Segmentation fault (core dumped)
+Current Mutation: cross_mutated_523
+Current Mutation: cross_mutated_524
+Current Mutation: cross_mutated_525
+Current Mutation: cross_mutated_526
+Current Mutation: cross_mutated_527
+Current Mutation: cross_mutated_528
+Current Mutation: cross_mutated_529
+Current Mutation: cross_mutated_530
+You triggered Bug #4 !
+Segmentation fault (core dumped)
+Current Mutation: cross_mutated_531
+Current Mutation: cross_mutated_532
+Current Mutation: cross_mutated_533
+Current Mutation: cross_mutated_534
+Current Mutation: cross_mutated_535
+Current Mutation: cross_mutated_536
+Current Mutation: cross_mutated_537
+Current Mutation: cross_mutated_538
+Current Mutation: cross_mutated_539
+Current Mutation: cross_mutated_540
+You triggered Bug #8 !
+Segmentation fault (core dumped)
+Current Mutation: cross_mutated_541
+Current Mutation: cross_mutated_542
+Current Mutation: cross_mutated_543
+Current Mutation: cross_mutated_544
+Current Mutation: cross_mutated_545
+Current Mutation: cross_mutated_546
+Current Mutation: cross_mutated_547
+Current Mutation: cross_mutated_548
+You triggered Bug #8 !
+Segmentation fault (core dumped)
+Current Mutation: cross_mutated_549
+Current Mutation: cross_mutated_550
+Current Mutation: cross_mutated_551
+Current Mutation: cross_mutated_552
+Current Mutation: cross_mutated_553
+You triggered Bug #8 !
+Segmentation fault (core dumped)
+Current Mutation: cross_mutated_554
+Current Mutation: cross_mutated_555
+Current Mutation: cross_mutated_556
+You triggered Bug #8 !
+Segmentation fault (core dumped)
+Current Mutation: cross_mutated_557
+Current Mutation: cross_mutated_558
+Current Mutation: cross_mutated_559
+Current Mutation: cross_mutated_560
+Current Mutation: cross_mutated_561
+Current Mutation: cross_mutated_562
+Current Mutation: cross_mutated_563
+Current Mutation: cross_mutated_564
+Current Mutation: cross_mutated_565
+Current Mutation: cross_mutated_566
+Current Mutation: cross_mutated_567
+Current Mutation: cross_mutated_568
+You triggered Bug #8 !
+Segmentation fault (core dumped)
+Current Mutation: cross_mutated_569
+Current Mutation: cross_mutated_570
+Current Mutation: cross_mutated_571
+Current Mutation: cross_mutated_572
+Current Mutation: cross_mutated_573
+You triggered Bug #8 !
+Segmentation fault (core dumped)
+Current Mutation: cross_mutated_574
+You triggered Bug #4 !
+Segmentation fault (core dumped)
+Current Mutation: cross_mutated_575
+Current Mutation: cross_mutated_576
+Current Mutation: cross_mutated_577
+Current Mutation: cross_mutated_578
+Current Mutation: cross_mutated_579
+Current Mutation: cross_mutated_580
+Current Mutation: cross_mutated_581
+Current Mutation: cross_mutated_582
+You triggered Bug #4 !
+Segmentation fault (core dumped)
+Current Mutation: cross_mutated_583
+Current Mutation: cross_mutated_584
+You triggered Bug #7 !
+Segmentation fault (core dumped)
+Current Mutation: cross_mutated_585
+Current Mutation: cross_mutated_586
+Current Mutation: cross_mutated_587
+Current Mutation: cross_mutated_588
+Current Mutation: cross_mutated_589
+Current Mutation: cross_mutated_590
+Current Mutation: cross_mutated_591
+Current Mutation: cross_mutated_592
+Current Mutation: cross_mutated_593
+Current Mutation: cross_mutated_594
+You triggered Bug #4 !
+Segmentation fault (core dumped)
+Current Mutation: cross_mutated_595
+Current Mutation: cross_mutated_596
+Current Mutation: cross_mutated_597
+Current Mutation: cross_mutated_598
+Current Mutation: cross_mutated_599
+Current Mutation: cross_mutated_600
+You triggered Bug #8 !
+Segmentation fault (core dumped)
+Current Mutation: cross_mutated_601
+Current Mutation: cross_mutated_602
+Current Mutation: cross_mutated_603
+Current Mutation: cross_mutated_604
+Current Mutation: cross_mutated_605
+You triggered Bug #2 !
+Segmentation fault (core dumped)
+Current Mutation: cross_mutated_606
+Current Mutation: cross_mutated_607
+Current Mutation: cross_mutated_608
+Current Mutation: cross_mutated_609
+Current Mutation: cross_mutated_610
+Current Mutation: cross_mutated_611
+Current Mutation: cross_mutated_612
+You triggered Bug #7 !
+Segmentation fault (core dumped)
+Current Mutation: cross_mutated_613
+Current Mutation: cross_mutated_614
+Current Mutation: cross_mutated_615
+Current Mutation: cross_mutated_616
+Current Mutation: cross_mutated_617
+You triggered Bug #8 !
+Segmentation fault (core dumped)
+Current Mutation: cross_mutated_618
+Current Mutation: cross_mutated_619
+Current Mutation: cross_mutated_620
+Current Mutation: cross_mutated_621
+Current Mutation: cross_mutated_622
+Current Mutation: cross_mutated_623
+You triggered Bug #4 !
+Segmentation fault (core dumped)
+Current Mutation: cross_mutated_624
+Current Mutation: cross_mutated_625
+Current Mutation: cross_mutated_626
+Current Mutation: cross_mutated_627
+Current Mutation: cross_mutated_628
+You triggered Bug #4 !
+Segmentation fault (core dumped)
+Current Mutation: cross_mutated_629
+Current Mutation: cross_mutated_630
+Current Mutation: cross_mutated_631
+Current Mutation: cross_mutated_632
+Current Mutation: cross_mutated_633
+Current Mutation: cross_mutated_634
+Current Mutation: cross_mutated_635
+Current Mutation: cross_mutated_636
+Current Mutation: cross_mutated_637
+Current Mutation: cross_mutated_638
+Current Mutation: cross_mutated_639
+Current Mutation: cross_mutated_640
+You triggered Bug #8 !
+Segmentation fault (core dumped)
+Current Mutation: cross_mutated_641
+Current Mutation: cross_mutated_642
+Current Mutation: cross_mutated_643
+Current Mutation: cross_mutated_644
+Current Mutation: cross_mutated_645
+Current Mutation: cross_mutated_646
+You triggered Bug #8 !
+Segmentation fault (core dumped)
+Current Mutation: cross_mutated_647
+Current Mutation: cross_mutated_648
+Current Mutation: cross_mutated_649
+Current Mutation: cross_mutated_650
+Current Mutation: cross_mutated_651
+Segmentation fault (core dumped)
+Current Mutation: cross_mutated_652
+Current Mutation: cross_mutated_653
+Current Mutation: cross_mutated_654
+Current Mutation: cross_mutated_655
+Current Mutation: cross_mutated_656
+Current Mutation: cross_mutated_657
+Current Mutation: cross_mutated_658
+Current Mutation: cross_mutated_659
+Current Mutation: cross_mutated_660
+Current Mutation: cross_mutated_661
+Current Mutation: cross_mutated_662
+Current Mutation: cross_mutated_663
+Current Mutation: cross_mutated_664
+Current Mutation: cross_mutated_665
+Current Mutation: cross_mutated_666
+Current Mutation: cross_mutated_667
+Current Mutation: cross_mutated_668
+Current Mutation: cross_mutated_669
+You triggered Bug #8 !
+Segmentation fault (core dumped)
+Current Mutation: cross_mutated_670
+Current Mutation: cross_mutated_671
+Current Mutation: cross_mutated_672
+Current Mutation: cross_mutated_673
+Current Mutation: cross_mutated_674
+You triggered Bug #7 !
+Segmentation fault (core dumped)
+Current Mutation: cross_mutated_675
+Current Mutation: cross_mutated_676
+Current Mutation: cross_mutated_677
+Current Mutation: cross_mutated_678
+Current Mutation: cross_mutated_679
+You triggered Bug #4 !
+Segmentation fault (core dumped)
+Current Mutation: cross_mutated_680
+Current Mutation: cross_mutated_681
+Current Mutation: cross_mutated_682
+Current Mutation: cross_mutated_683
+Current Mutation: cross_mutated_684
+You triggered Bug #5 !
+Segmentation fault (core dumped)
+Current Mutation: cross_mutated_685
+Current Mutation: cross_mutated_686
+Current Mutation: cross_mutated_687
+Current Mutation: cross_mutated_688
+Current Mutation: cross_mutated_689
+Current Mutation: cross_mutated_690
+Current Mutation: cross_mutated_691
+Current Mutation: cross_mutated_692
+Current Mutation: cross_mutated_693
+Current Mutation: cross_mutated_694
+You triggered Bug #7 !
+Segmentation fault (core dumped)
+Current Mutation: cross_mutated_695
+Current Mutation: cross_mutated_696
+You triggered Bug #4 !
+Segmentation fault (core dumped)
+Current Mutation: cross_mutated_697
+Current Mutation: cross_mutated_698
+Current Mutation: cross_mutated_699
+Current Mutation: cross_mutated_700
+Current Mutation: cross_mutated_701
+Current Mutation: cross_mutated_702
+Current Mutation: cross_mutated_703
+Current Mutation: cross_mutated_704
+Current Mutation: cross_mutated_705
+Current Mutation: cross_mutated_706
+Current Mutation: cross_mutated_707
+Current Mutation: cross_mutated_708
+Current Mutation: cross_mutated_709
+Current Mutation: cross_mutated_710
+Current Mutation: cross_mutated_711
+Current Mutation: cross_mutated_712
+Current Mutation: cross_mutated_713
+Current Mutation: cross_mutated_714
+Current Mutation: cross_mutated_715
+Current Mutation: cross_mutated_716
+You triggered Bug #8 !
+Segmentation fault (core dumped)
+Current Mutation: cross_mutated_717
+Current Mutation: cross_mutated_718
+Current Mutation: cross_mutated_719
+Current Mutation: cross_mutated_720
+Current Mutation: cross_mutated_721
+Current Mutation: cross_mutated_722
+Current Mutation: cross_mutated_723
+Current Mutation: cross_mutated_724
+Current Mutation: cross_mutated_725
+Current Mutation: cross_mutated_726
+Current Mutation: cross_mutated_727
+Current Mutation: cross_mutated_728
+Current Mutation: cross_mutated_729
+Current Mutation: cross_mutated_730
+Current Mutation: cross_mutated_731
+Current Mutation: cross_mutated_732
+Current Mutation: cross_mutated_733
+You triggered Bug #4 !
+Segmentation fault (core dumped)
+Current Mutation: cross_mutated_734
+Current Mutation: cross_mutated_735
+Current Mutation: cross_mutated_736
+Current Mutation: cross_mutated_737
+Current Mutation: cross_mutated_738
+Current Mutation: cross_mutated_739
+Current Mutation: cross_mutated_740
+Current Mutation: cross_mutated_741
+Current Mutation: cross_mutated_742
+Current Mutation: cross_mutated_743
+Current Mutation: cross_mutated_744
+Current Mutation: cross_mutated_745
+You triggered Bug #5 !
+Segmentation fault (core dumped)
+Current Mutation: cross_mutated_746
+Current Mutation: cross_mutated_747
+Current Mutation: cross_mutated_748
+You triggered Bug #8 !
+Segmentation fault (core dumped)
+Current Mutation: cross_mutated_749
+Current Mutation: cross_mutated_750
+Current Mutation: cross_mutated_751
+Current Mutation: cross_mutated_752
+Current Mutation: cross_mutated_753
+Current Mutation: cross_mutated_754
+You triggered Bug #4 !
+Segmentation fault (core dumped)
+Current Mutation: cross_mutated_755
+Current Mutation: cross_mutated_756
+Current Mutation: cross_mutated_757
+Current Mutation: cross_mutated_758
+Current Mutation: cross_mutated_759
+Current Mutation: cross_mutated_760
+Current Mutation: cross_mutated_761
+Current Mutation: cross_mutated_762
+Current Mutation: cross_mutated_763
+You triggered Bug #4 !
+Segmentation fault (core dumped)
+Current Mutation: cross_mutated_764
+Current Mutation: cross_mutated_765
+Current Mutation: cross_mutated_766
+Current Mutation: cross_mutated_767
+Current Mutation: cross_mutated_768
+You triggered Bug #8 !
+Segmentation fault (core dumped)
+Current Mutation: cross_mutated_769
+Current Mutation: cross_mutated_770
+Current Mutation: cross_mutated_771
+Current Mutation: cross_mutated_772
+Current Mutation: cross_mutated_773
+Current Mutation: cross_mutated_774
+Current Mutation: cross_mutated_775
+Current Mutation: cross_mutated_776
+Current Mutation: cross_mutated_777
+Current Mutation: cross_mutated_778
+Current Mutation: cross_mutated_779
+Current Mutation: cross_mutated_780
+Current Mutation: cross_mutated_781
+Current Mutation: cross_mutated_782
+Current Mutation: cross_mutated_783
+Current Mutation: cross_mutated_784
+You triggered Bug #8 !
+Segmentation fault (core dumped)
+Current Mutation: cross_mutated_785
+Current Mutation: cross_mutated_786
+You triggered Bug #7 !
+Segmentation fault (core dumped)
+Current Mutation: cross_mutated_787
+Current Mutation: cross_mutated_788
+Current Mutation: cross_mutated_789
+Current Mutation: cross_mutated_790
+Current Mutation: cross_mutated_791
+Current Mutation: cross_mutated_792
+You triggered Bug #4 !
+Segmentation fault (core dumped)
+Current Mutation: cross_mutated_793
+Current Mutation: cross_mutated_794
+Current Mutation: cross_mutated_795
+Current Mutation: cross_mutated_796
+Current Mutation: cross_mutated_797
+Current Mutation: cross_mutated_798
+Current Mutation: cross_mutated_799
+Current Mutation: cross_mutated_800
+Current Mutation: cross_mutated_801
+Current Mutation: cross_mutated_802
+Current Mutation: cross_mutated_803
+Current Mutation: cross_mutated_804
+Current Mutation: cross_mutated_805
+Current Mutation: cross_mutated_806
+Current Mutation: cross_mutated_807
+Current Mutation: cross_mutated_808
+Current Mutation: cross_mutated_809
+Current Mutation: cross_mutated_810
+Current Mutation: cross_mutated_811
+Current Mutation: cross_mutated_812
+Current Mutation: cross_mutated_813
+Current Mutation: cross_mutated_814
+Current Mutation: cross_mutated_815
+Current Mutation: cross_mutated_816
+Current Mutation: cross_mutated_817
+Current Mutation: cross_mutated_818
+Current Mutation: cross_mutated_819
+Current Mutation: cross_mutated_820
+Current Mutation: cross_mutated_821
+Current Mutation: cross_mutated_822
+You triggered Bug #8 !
+Segmentation fault (core dumped)
+Current Mutation: cross_mutated_823
+Current Mutation: cross_mutated_824
+Current Mutation: cross_mutated_825
+Current Mutation: cross_mutated_826
+Current Mutation: cross_mutated_827
+Current Mutation: cross_mutated_828
+Current Mutation: cross_mutated_829
+Current Mutation: cross_mutated_830
+Current Mutation: cross_mutated_831
+Current Mutation: cross_mutated_832
+Current Mutation: cross_mutated_833
+Current Mutation: cross_mutated_834
+Current Mutation: cross_mutated_835
+Current Mutation: cross_mutated_836
+Current Mutation: cross_mutated_837
+Current Mutation: cross_mutated_838
+Current Mutation: cross_mutated_839
+Current Mutation: cross_mutated_840
+You triggered Bug #4 !
+Segmentation fault (core dumped)
+Current Mutation: cross_mutated_841
+Current Mutation: cross_mutated_842
+Current Mutation: cross_mutated_843
+Current Mutation: cross_mutated_844
+Current Mutation: cross_mutated_845
+Current Mutation: cross_mutated_846
+You triggered Bug #4 !
+Segmentation fault (core dumped)
+Current Mutation: cross_mutated_847
+Current Mutation: cross_mutated_848
+You triggered Bug #4 !
+Segmentation fault (core dumped)
+Current Mutation: cross_mutated_849
+Current Mutation: cross_mutated_850
+Current Mutation: cross_mutated_851
+Current Mutation: cross_mutated_852
+Current Mutation: cross_mutated_853
+Current Mutation: cross_mutated_854
+Current Mutation: cross_mutated_855
+You triggered Bug #8 !
+Segmentation fault (core dumped)
+Current Mutation: cross_mutated_856
+Current Mutation: cross_mutated_857
+Current Mutation: cross_mutated_858
+Current Mutation: cross_mutated_859
+You triggered Bug #5 !
+Segmentation fault (core dumped)
+Current Mutation: cross_mutated_860
+Current Mutation: cross_mutated_861
+You triggered Bug #4 !
+Segmentation fault (core dumped)
+Current Mutation: cross_mutated_862
+Current Mutation: cross_mutated_863
+Current Mutation: cross_mutated_864
+Current Mutation: cross_mutated_865
+Current Mutation: cross_mutated_866
+Current Mutation: cross_mutated_867
+Current Mutation: cross_mutated_868
+Current Mutation: cross_mutated_869
+Current Mutation: cross_mutated_870
+Current Mutation: cross_mutated_871
+Current Mutation: cross_mutated_872
+Current Mutation: cross_mutated_873
+Current Mutation: cross_mutated_874
+Current Mutation: cross_mutated_875
+Current Mutation: cross_mutated_876
+Current Mutation: cross_mutated_877
+You triggered Bug #8 !
+Segmentation fault (core dumped)
+Current Mutation: cross_mutated_878
+Current Mutation: cross_mutated_879
+Current Mutation: cross_mutated_880
+Current Mutation: cross_mutated_881
+Current Mutation: cross_mutated_882
+Current Mutation: cross_mutated_883
+Current Mutation: cross_mutated_884
+You triggered Bug #8 !
+Segmentation fault (core dumped)
+Current Mutation: cross_mutated_885
+Current Mutation: cross_mutated_886
+Current Mutation: cross_mutated_887
+Current Mutation: cross_mutated_888
+Current Mutation: cross_mutated_889
+Current Mutation: cross_mutated_890
+Current Mutation: cross_mutated_891
+Current Mutation: cross_mutated_892
+Current Mutation: cross_mutated_893
+Current Mutation: cross_mutated_894
+Current Mutation: cross_mutated_895
+Current Mutation: cross_mutated_896
+Current Mutation: cross_mutated_897
+Current Mutation: cross_mutated_898
+Current Mutation: cross_mutated_899
+Current Mutation: cross_mutated_900
+Current Mutation: cross_mutated_901
+Current Mutation: cross_mutated_902
+You triggered Bug #8 !
+Segmentation fault (core dumped)
+Current Mutation: cross_mutated_903
+Current Mutation: cross_mutated_904
+Segmentation fault (core dumped)
+Current Mutation: cross_mutated_905
+Current Mutation: cross_mutated_906
+Current Mutation: cross_mutated_907
+Current Mutation: cross_mutated_908
+Current Mutation: cross_mutated_909
+Current Mutation: cross_mutated_910
+Current Mutation: cross_mutated_911
+Current Mutation: cross_mutated_912
+You triggered Bug #5 !
+Segmentation fault (core dumped)
+Current Mutation: cross_mutated_913
+You triggered Bug #4 !
+Segmentation fault (core dumped)
+Current Mutation: cross_mutated_914
+Current Mutation: cross_mutated_915
+You triggered Bug #8 !
+Segmentation fault (core dumped)
+Current Mutation: cross_mutated_916
+Current Mutation: cross_mutated_917
+Current Mutation: cross_mutated_918
+Current Mutation: cross_mutated_919
+Current Mutation: cross_mutated_920
+You triggered Bug #4 !
+Segmentation fault (core dumped)
+Current Mutation: cross_mutated_921
+Current Mutation: cross_mutated_922
+Current Mutation: cross_mutated_923
+Current Mutation: cross_mutated_924
+Current Mutation: cross_mutated_925
+Current Mutation: cross_mutated_926
+Current Mutation: cross_mutated_927
+Current Mutation: cross_mutated_928
+Current Mutation: cross_mutated_929
+Current Mutation: cross_mutated_930
+Current Mutation: cross_mutated_931
+Current Mutation: cross_mutated_932
+Current Mutation: cross_mutated_933
+Current Mutation: cross_mutated_934
+Current Mutation: cross_mutated_935
+You triggered Bug #4 !
+Segmentation fault (core dumped)
+Current Mutation: cross_mutated_936
+Current Mutation: cross_mutated_937
+Current Mutation: cross_mutated_938
+Current Mutation: cross_mutated_939
+Current Mutation: cross_mutated_940
+Current Mutation: cross_mutated_941
+Current Mutation: cross_mutated_942
+Current Mutation: cross_mutated_943
+Current Mutation: cross_mutated_944
+Current Mutation: cross_mutated_945
+Current Mutation: cross_mutated_946
+Current Mutation: cross_mutated_947
+Current Mutation: cross_mutated_948
+Current Mutation: cross_mutated_949
+You triggered Bug #8 !
+Segmentation fault (core dumped)
+Current Mutation: cross_mutated_950
+Current Mutation: cross_mutated_951
+Segmentation fault (core dumped)
+Current Mutation: cross_mutated_952
+Current Mutation: cross_mutated_953
+Current Mutation: cross_mutated_954
+Current Mutation: cross_mutated_955
+Current Mutation: cross_mutated_956
+Current Mutation: cross_mutated_957
+Current Mutation: cross_mutated_958
+Current Mutation: cross_mutated_959
+Current Mutation: cross_mutated_960
+Current Mutation: cross_mutated_961
+Current Mutation: cross_mutated_962
+Current Mutation: cross_mutated_963
+Current Mutation: cross_mutated_964
+Current Mutation: cross_mutated_965
+Current Mutation: cross_mutated_966
+Current Mutation: cross_mutated_967
+Current Mutation: cross_mutated_968
+Current Mutation: cross_mutated_969
+Current Mutation: cross_mutated_970
+Current Mutation: cross_mutated_971
+Current Mutation: cross_mutated_972
+Current Mutation: cross_mutated_973
+Current Mutation: cross_mutated_974
+Current Mutation: cross_mutated_975
+Current Mutation: cross_mutated_976
+Current Mutation: cross_mutated_977
+Current Mutation: cross_mutated_978
+Current Mutation: cross_mutated_979
+Current Mutation: cross_mutated_980
+Current Mutation: cross_mutated_981
+Current Mutation: cross_mutated_982
+Current Mutation: cross_mutated_983
+Current Mutation: cross_mutated_984
+Current Mutation: cross_mutated_985
+Current Mutation: cross_mutated_986
+Current Mutation: cross_mutated_987
+Current Mutation: cross_mutated_988
+Current Mutation: cross_mutated_989
+Current Mutation: cross_mutated_990
+Current Mutation: cross_mutated_991
+Current Mutation: cross_mutated_992
+Current Mutation: cross_mutated_993
+Current Mutation: cross_mutated_994
+Current Mutation: cross_mutated_995
+Current Mutation: cross_mutated_996
+Current Mutation: cross_mutated_997
+Current Mutation: cross_mutated_998
+Current Mutation: cross_mutated_999
+Current Mutation: cross_mutated_1000
+Current Mutation: cross_mutated_1001
+Current Mutation: cross_mutated_1002
+You triggered Bug #8 !
+Segmentation fault (core dumped)
+Current Mutation: cross_mutated_1003
+Current Mutation: cross_mutated_1004
+Current Mutation: cross_mutated_1005
+Current Mutation: cross_mutated_1006
+Current Mutation: cross_mutated_1007
+Current Mutation: cross_mutated_1008
+Current Mutation: cross_mutated_1009
+Current Mutation: cross_mutated_1010
+Current Mutation: cross_mutated_1011
+Current Mutation: cross_mutated_1012
+Current Mutation: cross_mutated_1013
+Segmentation fault (core dumped)
+Current Mutation: cross_mutated_1014
+Current Mutation: cross_mutated_1015
+Current Mutation: cross_mutated_1016
+Current Mutation: cross_mutated_1017
+Current Mutation: cross_mutated_1018
+Current Mutation: cross_mutated_1019
+Current Mutation: cross_mutated_1020
+Current Mutation: cross_mutated_1021
+Current Mutation: cross_mutated_1022
+You triggered Bug #8 !
+Segmentation fault (core dumped)
+Current Mutation: cross_mutated_1023
+Current Mutation: cross_mutated_1024
+Current Mutation: cross_mutated_1025
+Current Mutation: cross_mutated_1026
+Current Mutation: cross_mutated_1027
+Current Mutation: cross_mutated_1028
+Current Mutation: cross_mutated_1029
+Current Mutation: cross_mutated_1030
+Current Mutation: cross_mutated_1031
+Current Mutation: cross_mutated_1032
+Current Mutation: cross_mutated_1033
+Current Mutation: cross_mutated_1034
+Current Mutation: cross_mutated_1035
+You triggered Bug #8 !
+Segmentation fault (core dumped)
+Current Mutation: cross_mutated_1036
+You triggered Bug #4 !
+Segmentation fault (core dumped)
+Current Mutation: cross_mutated_1037
+Current Mutation: cross_mutated_1038
+Current Mutation: cross_mutated_1039
+You triggered Bug #7 !
+Segmentation fault (core dumped)
+Current Mutation: cross_mutated_1040
+Current Mutation: cross_mutated_1041
+Current Mutation: cross_mutated_1042
+Current Mutation: cross_mutated_1043
+Current Mutation: cross_mutated_1044
+Current Mutation: cross_mutated_1045
+Current Mutation: cross_mutated_1046
+Current Mutation: cross_mutated_1047
+Current Mutation: cross_mutated_1048
+Current Mutation: cross_mutated_1049
+Segmentation fault (core dumped)
+Current Mutation: cross_mutated_1050
+Segmentation fault (core dumped)
+Current Mutation: cross_mutated_1051
+Current Mutation: cross_mutated_1052
+Current Mutation: cross_mutated_1053
+Current Mutation: cross_mutated_1054
+Current Mutation: cross_mutated_1055
+Current Mutation: cross_mutated_1056
+Current Mutation: cross_mutated_1057
+Current Mutation: cross_mutated_1058
+Current Mutation: cross_mutated_1059
+Current Mutation: cross_mutated_1060
+Current Mutation: cross_mutated_1061
+Current Mutation: cross_mutated_1062
+Current Mutation: cross_mutated_1063
+Current Mutation: cross_mutated_1064
+Current Mutation: cross_mutated_1065
+You triggered Bug #8 !
+Segmentation fault (core dumped)
+Current Mutation: cross_mutated_1066
+Current Mutation: cross_mutated_1067
+Current Mutation: cross_mutated_1068
+Current Mutation: cross_mutated_1069
+Current Mutation: cross_mutated_1070
+Current Mutation: cross_mutated_1071
+You triggered Bug #7 !
+Segmentation fault (core dumped)
+Current Mutation: cross_mutated_1072
+Current Mutation: cross_mutated_1073
+Current Mutation: cross_mutated_1074
+You triggered Bug #8 !
+Segmentation fault (core dumped)
+Current Mutation: cross_mutated_1075
+Current Mutation: cross_mutated_1076
+Current Mutation: cross_mutated_1077
+Current Mutation: cross_mutated_1078
+Current Mutation: cross_mutated_1079
+You triggered Bug #8 !
+Segmentation fault (core dumped)
+Current Mutation: cross_mutated_1080
+Current Mutation: cross_mutated_1081
+Current Mutation: cross_mutated_1082
+Current Mutation: cross_mutated_1083
+Current Mutation: cross_mutated_1084
+Current Mutation: cross_mutated_1085
+Current Mutation: cross_mutated_1086
+You triggered Bug #4 !
+Segmentation fault (core dumped)
+Current Mutation: cross_mutated_1087
+Current Mutation: cross_mutated_1088
+Current Mutation: cross_mutated_1089
+Current Mutation: cross_mutated_1090
+Current Mutation: cross_mutated_1091
+Current Mutation: cross_mutated_1092
+Current Mutation: cross_mutated_1093
+Current Mutation: cross_mutated_1094
+Current Mutation: cross_mutated_1095
+Current Mutation: cross_mutated_1096
+Current Mutation: cross_mutated_1097
+Current Mutation: cross_mutated_1098
+Current Mutation: cross_mutated_1099
+Current Mutation: cross_mutated_1100
+Current Mutation: cross_mutated_1101
+Current Mutation: cross_mutated_1102
+Current Mutation: cross_mutated_1103
+Current Mutation: cross_mutated_1104
+You triggered Bug #4 !
+Segmentation fault (core dumped)
+Current Mutation: cross_mutated_1105
+You triggered Bug #4 !
+Segmentation fault (core dumped)
+Current Mutation: cross_mutated_1106
+Current Mutation: cross_mutated_1107
+Current Mutation: cross_mutated_1108
+Current Mutation: cross_mutated_1109
+Current Mutation: cross_mutated_1110
+Current Mutation: cross_mutated_1111
+Current Mutation: cross_mutated_1112
+Current Mutation: cross_mutated_1113
+Current Mutation: cross_mutated_1114
+You triggered Bug #4 !
+Segmentation fault (core dumped)
+Current Mutation: cross_mutated_1115
+Current Mutation: cross_mutated_1116
+Current Mutation: cross_mutated_1117
+Current Mutation: cross_mutated_1118
+Current Mutation: cross_mutated_1119
+Current Mutation: cross_mutated_1120
+You triggered Bug #2 !
+Segmentation fault (core dumped)
+Current Mutation: cross_mutated_1121
+Current Mutation: cross_mutated_1122
+Current Mutation: cross_mutated_1123
+Current Mutation: cross_mutated_1124
+Current Mutation: cross_mutated_1125
+You triggered Bug #8 !
+Segmentation fault (core dumped)
+Current Mutation: cross_mutated_1126
+Current Mutation: cross_mutated_1127
+Current Mutation: cross_mutated_1128
+Current Mutation: cross_mutated_1129
+Current Mutation: cross_mutated_1130
+Current Mutation: cross_mutated_1131
+Current Mutation: cross_mutated_1132
+Current Mutation: cross_mutated_1133
+Current Mutation: cross_mutated_1134
+Current Mutation: cross_mutated_1135
+Current Mutation: cross_mutated_1136
+Current Mutation: cross_mutated_1137
+Current Mutation: cross_mutated_1138
+Current Mutation: cross_mutated_1139
+Current Mutation: cross_mutated_1140
+Current Mutation: cross_mutated_1141
+Current Mutation: cross_mutated_1142
+Current Mutation: cross_mutated_1143
+Current Mutation: cross_mutated_1144
+Current Mutation: cross_mutated_1145
+Current Mutation: cross_mutated_1146
+Current Mutation: cross_mutated_1147
+Current Mutation: cross_mutated_1148
+Current Mutation: cross_mutated_1149
+Current Mutation: cross_mutated_1150
+Current Mutation: cross_mutated_1151
+Current Mutation: cross_mutated_1152
+Current Mutation: cross_mutated_1153
+Current Mutation: cross_mutated_1154
+Current Mutation: cross_mutated_1155
+Current Mutation: cross_mutated_1156
+Current Mutation: cross_mutated_1157
+Current Mutation: cross_mutated_1158
+Current Mutation: cross_mutated_1159
+Current Mutation: cross_mutated_1160
+Current Mutation: cross_mutated_1161
+Current Mutation: cross_mutated_1162
+Current Mutation: cross_mutated_1163
+Current Mutation: cross_mutated_1164
+Floating point exception (core dumped)
+Current Mutation: cross_mutated_1165
+You triggered Bug #4 !
+Segmentation fault (core dumped)
+Current Mutation: cross_mutated_1166
+Current Mutation: cross_mutated_1167
+Current Mutation: cross_mutated_1168
+Current Mutation: cross_mutated_1169
+Current Mutation: cross_mutated_1170
+Current Mutation: cross_mutated_1171
+Current Mutation: cross_mutated_1172
+Current Mutation: cross_mutated_1173
+You triggered Bug #8 !
+Segmentation fault (core dumped)
+Current Mutation: cross_mutated_1174
+Current Mutation: cross_mutated_1175
+Current Mutation: cross_mutated_1176
+Current Mutation: cross_mutated_1177
+Current Mutation: cross_mutated_1178
+Current Mutation: cross_mutated_1179
+Current Mutation: cross_mutated_1180
+Current Mutation: cross_mutated_1181
+Current Mutation: cross_mutated_1182
+Current Mutation: cross_mutated_1183
+Current Mutation: cross_mutated_1184
+Current Mutation: cross_mutated_1185
+Current Mutation: cross_mutated_1186
+You triggered Bug #8 !
+Segmentation fault (core dumped)
+Current Mutation: cross_mutated_1187
+Current Mutation: cross_mutated_1188
+Current Mutation: cross_mutated_1189
+You triggered Bug #4 !
+Segmentation fault (core dumped)
+Current Mutation: cross_mutated_1190
+Current Mutation: cross_mutated_1191
+Current Mutation: cross_mutated_1192
+You triggered Bug #5 !
+Segmentation fault (core dumped)
+Current Mutation: cross_mutated_1193
+You triggered Bug #4 !
+Segmentation fault (core dumped)
+Current Mutation: cross_mutated_1194
+Current Mutation: cross_mutated_1195
+Current Mutation: cross_mutated_1196
+Current Mutation: cross_mutated_1197
+Current Mutation: cross_mutated_1198
+Current Mutation: cross_mutated_1199
+Current Mutation: cross_mutated_1200
+You triggered Bug #8 !
+Segmentation fault (core dumped)
+Current Mutation: cross_mutated_1201
+Current Mutation: cross_mutated_1202
+You triggered Bug #8 !
+Segmentation fault (core dumped)
+Current Mutation: cross_mutated_1203
+Current Mutation: cross_mutated_1204
+Current Mutation: cross_mutated_1205
+Current Mutation: cross_mutated_1206
+Current Mutation: cross_mutated_1207
+Current Mutation: cross_mutated_1208
+Current Mutation: cross_mutated_1209
+Current Mutation: cross_mutated_1210
+Current Mutation: cross_mutated_1211
+Current Mutation: cross_mutated_1212
+Current Mutation: cross_mutated_1213
+Current Mutation: cross_mutated_1214
+Current Mutation: cross_mutated_1215
+Current Mutation: cross_mutated_1216
+You triggered Bug #4 !
+Segmentation fault (core dumped)
+Current Mutation: cross_mutated_1217
+Current Mutation: cross_mutated_1218
+Current Mutation: cross_mutated_1219
+Current Mutation: cross_mutated_1220
+Current Mutation: cross_mutated_1221
+You triggered Bug #4 !
+Segmentation fault (core dumped)
+Current Mutation: cross_mutated_1222
+Current Mutation: cross_mutated_1223
+You triggered Bug #4 !
+Segmentation fault (core dumped)
+Current Mutation: cross_mutated_1224
+Current Mutation: cross_mutated_1225
+Current Mutation: cross_mutated_1226
+Current Mutation: cross_mutated_1227
+Current Mutation: cross_mutated_1228
+Current Mutation: cross_mutated_1229
+Current Mutation: cross_mutated_1230
+Current Mutation: cross_mutated_1231
+Current Mutation: cross_mutated_1232
+Segmentation fault (core dumped)
+Current Mutation: cross_mutated_1233
+Current Mutation: cross_mutated_1234
+Current Mutation: cross_mutated_1235
+Current Mutation: cross_mutated_1236
+Current Mutation: cross_mutated_1237
+Current Mutation: cross_mutated_1238
+Current Mutation: cross_mutated_1239
+Current Mutation: cross_mutated_1240
+Current Mutation: cross_mutated_1241
+Current Mutation: cross_mutated_1242
+Current Mutation: cross_mutated_1243
+Current Mutation: cross_mutated_1244
+Current Mutation: cross_mutated_1245
+Current Mutation: cross_mutated_1246
+Current Mutation: cross_mutated_1247
+Current Mutation: cross_mutated_1248
+Current Mutation: cross_mutated_1249
+Current Mutation: cross_mutated_1250
+Current Mutation: cross_mutated_1251
+Current Mutation: cross_mutated_1252
+Current Mutation: cross_mutated_1253
+Current Mutation: cross_mutated_1254
+Current Mutation: cross_mutated_1255
+Current Mutation: cross_mutated_1256
+Current Mutation: cross_mutated_1257
+Current Mutation: cross_mutated_1258
+Current Mutation: cross_mutated_1259
+Current Mutation: cross_mutated_1260
+Current Mutation: cross_mutated_1261
+Current Mutation: cross_mutated_1262
+Current Mutation: cross_mutated_1263
+Current Mutation: cross_mutated_1264
+Current Mutation: cross_mutated_1265
+Current Mutation: cross_mutated_1266
+Current Mutation: cross_mutated_1267
+Current Mutation: cross_mutated_1268
+Current Mutation: cross_mutated_1269
+You triggered Bug #5 !
+Segmentation fault (core dumped)
+Current Mutation: cross_mutated_1270
+Current Mutation: cross_mutated_1271
+Current Mutation: cross_mutated_1272
+Current Mutation: cross_mutated_1273
+Current Mutation: cross_mutated_1274
+You triggered Bug #8 !
+Segmentation fault (core dumped)
+Current Mutation: cross_mutated_1275
+Current Mutation: cross_mutated_1276
+Current Mutation: cross_mutated_1277
+Current Mutation: cross_mutated_1278
+Current Mutation: cross_mutated_1279
+Current Mutation: cross_mutated_1280
+You triggered Bug #4 !
+Segmentation fault (core dumped)
+Current Mutation: cross_mutated_1281
+Current Mutation: cross_mutated_1282
+Current Mutation: cross_mutated_1283
+Current Mutation: cross_mutated_1284
+Current Mutation: cross_mutated_1285
+Current Mutation: cross_mutated_1286
+Current Mutation: cross_mutated_1287
+Current Mutation: cross_mutated_1288
+Current Mutation: cross_mutated_1289
+Current Mutation: cross_mutated_1290
+Current Mutation: cross_mutated_1291
+Current Mutation: cross_mutated_1292
+Current Mutation: cross_mutated_1293
+Current Mutation: cross_mutated_1294
+Current Mutation: cross_mutated_1295
+Current Mutation: cross_mutated_1296
+You triggered Bug #8 !
+Segmentation fault (core dumped)
+Current Mutation: cross_mutated_1297
+You triggered Bug #4 !
+Segmentation fault (core dumped)
+Current Mutation: cross_mutated_1298
+Current Mutation: cross_mutated_1299
+You triggered Bug #4 !
+Segmentation fault (core dumped)
+Current Mutation: cross_mutated_1300
+Current Mutation: cross_mutated_1301
+Current Mutation: cross_mutated_1302
+Current Mutation: cross_mutated_1303
+Current Mutation: cross_mutated_1304
+Current Mutation: cross_mutated_1305
+Current Mutation: cross_mutated_1306
+Current Mutation: cross_mutated_1307
+Current Mutation: cross_mutated_1308
+Current Mutation: cross_mutated_1309
+Current Mutation: cross_mutated_1310
+Current Mutation: cross_mutated_1311
+Current Mutation: cross_mutated_1312
+Current Mutation: cross_mutated_1313
+Current Mutation: cross_mutated_1314
+Current Mutation: cross_mutated_1315
+Current Mutation: cross_mutated_1316
+Current Mutation: cross_mutated_1317
+Current Mutation: cross_mutated_1318
+Current Mutation: cross_mutated_1319
+You triggered Bug #4 !
+Segmentation fault (core dumped)
+Current Mutation: cross_mutated_1320
+Current Mutation: cross_mutated_1321
+Current Mutation: cross_mutated_1322
+Current Mutation: cross_mutated_1323
+Current Mutation: cross_mutated_1324
+Current Mutation: cross_mutated_1325
+Current Mutation: cross_mutated_1326
+Current Mutation: cross_mutated_1327
+Current Mutation: cross_mutated_1328
+Current Mutation: cross_mutated_1329
+Current Mutation: cross_mutated_1330
+Current Mutation: cross_mutated_1331
+Current Mutation: cross_mutated_1332
+Current Mutation: cross_mutated_1333
+Current Mutation: cross_mutated_1334
+You triggered Bug #8 !
+Segmentation fault (core dumped)
+Current Mutation: cross_mutated_1335
+Current Mutation: cross_mutated_1336
+Current Mutation: cross_mutated_1337
+Current Mutation: cross_mutated_1338
+You triggered Bug #8 !
+Segmentation fault (core dumped)
+Current Mutation: cross_mutated_1339
+Current Mutation: cross_mutated_1340
+Current Mutation: cross_mutated_1341
+Current Mutation: cross_mutated_1342
+Current Mutation: cross_mutated_1343
+Current Mutation: cross_mutated_1344
+Current Mutation: cross_mutated_1345
+Current Mutation: cross_mutated_1346
+Current Mutation: cross_mutated_1347
+Current Mutation: cross_mutated_1348
+Current Mutation: cross_mutated_1349
+Current Mutation: cross_mutated_1350
+Current Mutation: cross_mutated_1351
+Current Mutation: cross_mutated_1352
+You triggered Bug #8 !
+Segmentation fault (core dumped)
+Current Mutation: cross_mutated_1353
+Current Mutation: cross_mutated_1354
+Current Mutation: cross_mutated_1355
+Current Mutation: cross_mutated_1356
+Current Mutation: cross_mutated_1357
+Current Mutation: cross_mutated_1358
+Current Mutation: cross_mutated_1359
+Current Mutation: cross_mutated_1360
+Current Mutation: cross_mutated_1361
+Current Mutation: cross_mutated_1362
+Current Mutation: cross_mutated_1363
+Current Mutation: cross_mutated_1364
+Current Mutation: cross_mutated_1365
+You triggered Bug #5 !
+Segmentation fault (core dumped)
+Current Mutation: cross_mutated_1366
+Current Mutation: cross_mutated_1367
+Current Mutation: cross_mutated_1368
+Current Mutation: cross_mutated_1369
+Current Mutation: cross_mutated_1370
+Current Mutation: cross_mutated_1371
+Current Mutation: cross_mutated_1372
+Current Mutation: cross_mutated_1373
+Current Mutation: cross_mutated_1374
+Current Mutation: cross_mutated_1375
+Current Mutation: cross_mutated_1376
+Current Mutation: cross_mutated_1377
+Current Mutation: cross_mutated_1378
+Current Mutation: cross_mutated_1379
+Current Mutation: cross_mutated_1380
+Current Mutation: cross_mutated_1381
+Current Mutation: cross_mutated_1382
+Current Mutation: cross_mutated_1383
+Current Mutation: cross_mutated_1384
+Current Mutation: cross_mutated_1385
+Current Mutation: cross_mutated_1386
+Current Mutation: cross_mutated_1387
+Current Mutation: cross_mutated_1388
+You triggered Bug #4 !
+Segmentation fault (core dumped)
+Current Mutation: cross_mutated_1389
+Current Mutation: cross_mutated_1390
+You triggered Bug #8 !
+Segmentation fault (core dumped)
+Current Mutation: cross_mutated_1391
+Current Mutation: cross_mutated_1392
+Current Mutation: cross_mutated_1393
+Current Mutation: cross_mutated_1394
+Current Mutation: cross_mutated_1395
+Current Mutation: cross_mutated_1396
+Current Mutation: cross_mutated_1397
+Current Mutation: cross_mutated_1398
+Current Mutation: cross_mutated_1399
+Current Mutation: cross_mutated_1400
+Current Mutation: cross_mutated_1401
+Current Mutation: cross_mutated_1402
+Current Mutation: cross_mutated_1403
+Current Mutation: cross_mutated_1404
+Current Mutation: cross_mutated_1405
+Current Mutation: cross_mutated_1406
+Current Mutation: cross_mutated_1407
+Current Mutation: cross_mutated_1408
+Current Mutation: cross_mutated_1409
+Current Mutation: cross_mutated_1410
+Current Mutation: cross_mutated_1411
+Current Mutation: cross_mutated_1412
+Current Mutation: cross_mutated_1413
+Current Mutation: cross_mutated_1414
+Current Mutation: cross_mutated_1415
+Current Mutation: cross_mutated_1416
+Current Mutation: cross_mutated_1417
+Current Mutation: cross_mutated_1418
+Current Mutation: cross_mutated_1419
+You triggered Bug #8 !
+Segmentation fault (core dumped)
+Current Mutation: cross_mutated_1420
+Current Mutation: cross_mutated_1421
+Current Mutation: cross_mutated_1422
+Current Mutation: cross_mutated_1423
+Current Mutation: cross_mutated_1424
+Current Mutation: cross_mutated_1425
+Current Mutation: cross_mutated_1426
+Current Mutation: cross_mutated_1427
+Current Mutation: cross_mutated_1428
+Current Mutation: cross_mutated_1429
+Current Mutation: cross_mutated_1430
+Current Mutation: cross_mutated_1431
+Current Mutation: cross_mutated_1432
+Current Mutation: cross_mutated_1433
+Current Mutation: cross_mutated_1434
+Current Mutation: cross_mutated_1435
+Current Mutation: cross_mutated_1436
+Current Mutation: cross_mutated_1437
+Current Mutation: cross_mutated_1438
+You triggered Bug #4 !
+Segmentation fault (core dumped)
+Current Mutation: cross_mutated_1439
+Current Mutation: cross_mutated_1440
+Segmentation fault (core dumped)
+Current Mutation: cross_mutated_1441
+Current Mutation: cross_mutated_1442
+Current Mutation: cross_mutated_1443
+Current Mutation: cross_mutated_1444
+Current Mutation: cross_mutated_1445
+Current Mutation: cross_mutated_1446
+Current Mutation: cross_mutated_1447
+Current Mutation: cross_mutated_1448
+Current Mutation: cross_mutated_1449
+Current Mutation: cross_mutated_1450
+Current Mutation: cross_mutated_1451
+Current Mutation: cross_mutated_1452
+Current Mutation: cross_mutated_1453
+You triggered Bug #8 !
+Segmentation fault (core dumped)
+Current Mutation: cross_mutated_1454
+Current Mutation: cross_mutated_1455
+Current Mutation: cross_mutated_1456
+Current Mutation: cross_mutated_1457
+Current Mutation: cross_mutated_1458
+Current Mutation: cross_mutated_1459
+Current Mutation: cross_mutated_1460
+Current Mutation: cross_mutated_1461
+Current Mutation: cross_mutated_1462
+Current Mutation: cross_mutated_1463
+Current Mutation: cross_mutated_1464
+Current Mutation: cross_mutated_1465
+Current Mutation: cross_mutated_1466
+Current Mutation: cross_mutated_1467
+Current Mutation: cross_mutated_1468
+Current Mutation: cross_mutated_1469
+Current Mutation: cross_mutated_1470
+Current Mutation: cross_mutated_1471
+You triggered Bug #8 !
+Segmentation fault (core dumped)
+Current Mutation: cross_mutated_1472
+Current Mutation: cross_mutated_1473
+Current Mutation: cross_mutated_1474
+Current Mutation: cross_mutated_1475
+Current Mutation: cross_mutated_1476
+Current Mutation: cross_mutated_1477
+Current Mutation: cross_mutated_1478
+You triggered Bug #8 !
+Segmentation fault (core dumped)
+Current Mutation: cross_mutated_1479
+Current Mutation: cross_mutated_1480
+Current Mutation: cross_mutated_1481
+Current Mutation: cross_mutated_1482
+Current Mutation: cross_mutated_1483
+Current Mutation: cross_mutated_1484
+Current Mutation: cross_mutated_1485
+Current Mutation: cross_mutated_1486
+Current Mutation: cross_mutated_1487
+Current Mutation: cross_mutated_1488
+You triggered Bug #8 !
+Segmentation fault (core dumped)
+Current Mutation: cross_mutated_1489
+Current Mutation: cross_mutated_1490
+Current Mutation: cross_mutated_1491
+Current Mutation: cross_mutated_1492
+Current Mutation: cross_mutated_1493
+Current Mutation: cross_mutated_1494
+Current Mutation: cross_mutated_1495
+Current Mutation: cross_mutated_1496
+You triggered Bug #7 !
+Segmentation fault (core dumped)
+Current Mutation: cross_mutated_1497
+You triggered Bug #4 !
+Segmentation fault (core dumped)
+Current Mutation: cross_mutated_1498
+Current Mutation: cross_mutated_1499
+Current Mutation: cross_mutated_1500
+Current Mutation: cross_mutated_1501
+Current Mutation: cross_mutated_1502
+Current Mutation: cross_mutated_1503
+You triggered Bug #4 !
+Segmentation fault (core dumped)
+Current Mutation: cross_mutated_1504
+Current Mutation: cross_mutated_1505
+Current Mutation: cross_mutated_1506
+Current Mutation: cross_mutated_1507
+Current Mutation: cross_mutated_1508
+Current Mutation: cross_mutated_1509
+Current Mutation: cross_mutated_1510
+Current Mutation: cross_mutated_1511
+Current Mutation: cross_mutated_1512
+Current Mutation: cross_mutated_1513
+Current Mutation: cross_mutated_1514
+You triggered Bug #8 !
+Segmentation fault (core dumped)
+Current Mutation: cross_mutated_1515
+Current Mutation: cross_mutated_1516
+Current Mutation: cross_mutated_1517
+Current Mutation: cross_mutated_1518
+Current Mutation: cross_mutated_1519
+Current Mutation: cross_mutated_1520
+Current Mutation: cross_mutated_1521
+You triggered Bug #4 !
+Segmentation fault (core dumped)
+Current Mutation: cross_mutated_1522
+Current Mutation: cross_mutated_1523
+Current Mutation: cross_mutated_1524
+Current Mutation: cross_mutated_1525
+Current Mutation: cross_mutated_1526
+Current Mutation: cross_mutated_1527
+Current Mutation: cross_mutated_1528
+Current Mutation: cross_mutated_1529
+Current Mutation: cross_mutated_1530
+Current Mutation: cross_mutated_1531
+Current Mutation: cross_mutated_1532
+Current Mutation: cross_mutated_1533
+Current Mutation: cross_mutated_1534
+Current Mutation: cross_mutated_1535
+Current Mutation: cross_mutated_1536
+Current Mutation: cross_mutated_1537
+Current Mutation: cross_mutated_1538
+Current Mutation: cross_mutated_1539
+Current Mutation: cross_mutated_1540
+Current Mutation: cross_mutated_1541
+Current Mutation: cross_mutated_1542
+Current Mutation: cross_mutated_1543
+Current Mutation: cross_mutated_1544
+Current Mutation: cross_mutated_1545
+Current Mutation: cross_mutated_1546
+You triggered Bug #8 !
+Segmentation fault (core dumped)
+Current Mutation: cross_mutated_1547
+Current Mutation: cross_mutated_1548
+Current Mutation: cross_mutated_1549
+Current Mutation: cross_mutated_1550
+Current Mutation: cross_mutated_1551
+Current Mutation: cross_mutated_1552
+Current Mutation: cross_mutated_1553
+Current Mutation: cross_mutated_1554
+Current Mutation: cross_mutated_1555
+Current Mutation: cross_mutated_1556
+You triggered Bug #8 !
+Segmentation fault (core dumped)
+Current Mutation: cross_mutated_1557
+Current Mutation: cross_mutated_1558
+Current Mutation: cross_mutated_1559
+Current Mutation: cross_mutated_1560
+Current Mutation: cross_mutated_1561
+You triggered Bug #8 !
+Segmentation fault (core dumped)
+Current Mutation: cross_mutated_1562
+You triggered Bug #3 !
+Segmentation fault (core dumped)
+Current Mutation: cross_mutated_1563
+Current Mutation: cross_mutated_1564
+Current Mutation: cross_mutated_1565
+Current Mutation: cross_mutated_1566
+Current Mutation: cross_mutated_1567
+Current Mutation: cross_mutated_1568
+Current Mutation: cross_mutated_1569
+Current Mutation: cross_mutated_1570
+Current Mutation: cross_mutated_1571
+Current Mutation: cross_mutated_1572
+Current Mutation: cross_mutated_1573
+You triggered Bug #3 !
+Segmentation fault (core dumped)
+Current Mutation: cross_mutated_1574
+Current Mutation: cross_mutated_1575
+Current Mutation: cross_mutated_1576
+Current Mutation: cross_mutated_1577
+Current Mutation: cross_mutated_1578
+Current Mutation: cross_mutated_1579
+Current Mutation: cross_mutated_1580
+Current Mutation: cross_mutated_1581
+Current Mutation: cross_mutated_1582
+Current Mutation: cross_mutated_1583
+Current Mutation: cross_mutated_1584
+Current Mutation: cross_mutated_1585
+Current Mutation: cross_mutated_1586
+Current Mutation: cross_mutated_1587
+Current Mutation: cross_mutated_1588
+You triggered Bug #7 !
+Segmentation fault (core dumped)
+Current Mutation: cross_mutated_1589
+Current Mutation: cross_mutated_1590
+Current Mutation: cross_mutated_1591
+Current Mutation: cross_mutated_1592
+Current Mutation: cross_mutated_1593
+Current Mutation: cross_mutated_1594
+Current Mutation: cross_mutated_1595
+Current Mutation: cross_mutated_1596
+Current Mutation: cross_mutated_1597
+Current Mutation: cross_mutated_1598
+Current Mutation: cross_mutated_1599
+Current Mutation: cross_mutated_1600
+Current Mutation: cross_mutated_1601
+You triggered Bug #8 !
+Segmentation fault (core dumped)
+Current Mutation: cross_mutated_1602
+Current Mutation: cross_mutated_1603
+Current Mutation: cross_mutated_1604
+Current Mutation: cross_mutated_1605
+You triggered Bug #4 !
+Segmentation fault (core dumped)
+Current Mutation: cross_mutated_1606
+Current Mutation: cross_mutated_1607
+Current Mutation: cross_mutated_1608
+Current Mutation: cross_mutated_1609
+Current Mutation: cross_mutated_1610
+Current Mutation: cross_mutated_1611
+Current Mutation: cross_mutated_1612
+Current Mutation: cross_mutated_1613
+Current Mutation: cross_mutated_1614
+Current Mutation: cross_mutated_1615
+Current Mutation: cross_mutated_1616
+Current Mutation: cross_mutated_1617
+Current Mutation: cross_mutated_1618
+Current Mutation: cross_mutated_1619
+Current Mutation: cross_mutated_1620
+Current Mutation: cross_mutated_1621
+Current Mutation: cross_mutated_1622
+Current Mutation: cross_mutated_1623
+Current Mutation: cross_mutated_1624
+Current Mutation: cross_mutated_1625
+Current Mutation: cross_mutated_1626
+Current Mutation: cross_mutated_1627
+Current Mutation: cross_mutated_1628
+Current Mutation: cross_mutated_1629
+Current Mutation: cross_mutated_1630
+Current Mutation: cross_mutated_1631
+Current Mutation: cross_mutated_1632
+Current Mutation: cross_mutated_1633
+Current Mutation: cross_mutated_1634
+Current Mutation: cross_mutated_1635
+Current Mutation: cross_mutated_1636
+Current Mutation: cross_mutated_1637
+Current Mutation: cross_mutated_1638
+Current Mutation: cross_mutated_1639
+Current Mutation: cross_mutated_1640
+Current Mutation: cross_mutated_1641
+Current Mutation: cross_mutated_1642
+Current Mutation: cross_mutated_1643
+Current Mutation: cross_mutated_1644
+Current Mutation: cross_mutated_1645
+Current Mutation: cross_mutated_1646
+Current Mutation: cross_mutated_1647
+Current Mutation: cross_mutated_1648
+Current Mutation: cross_mutated_1649
+Current Mutation: cross_mutated_1650
+Current Mutation: cross_mutated_1651
+Current Mutation: cross_mutated_1652
+Current Mutation: cross_mutated_1653
+Current Mutation: cross_mutated_1654
+Current Mutation: cross_mutated_1655
+Current Mutation: cross_mutated_1656
+Current Mutation: cross_mutated_1657
+Current Mutation: cross_mutated_1658
+Current Mutation: cross_mutated_1659
+You triggered Bug #4 !
+Segmentation fault (core dumped)
+Current Mutation: cross_mutated_1660
+Current Mutation: cross_mutated_1661
+Current Mutation: cross_mutated_1662
+Current Mutation: cross_mutated_1663
+Current Mutation: cross_mutated_1664
+Current Mutation: cross_mutated_1665
+Current Mutation: cross_mutated_1666
+Current Mutation: cross_mutated_1667
+Current Mutation: cross_mutated_1668
+Current Mutation: cross_mutated_1669
+Floating point exception (core dumped)
+Current Mutation: cross_mutated_1670
+Current Mutation: cross_mutated_1671
+You triggered Bug #8 !
+Segmentation fault (core dumped)
+Current Mutation: cross_mutated_1672
+Current Mutation: cross_mutated_1673
+Current Mutation: cross_mutated_1674
+Current Mutation: cross_mutated_1675
+Current Mutation: cross_mutated_1676
+Current Mutation: cross_mutated_1677
+Current Mutation: cross_mutated_1678
+Current Mutation: cross_mutated_1679
+Current Mutation: cross_mutated_1680
+Current Mutation: cross_mutated_1681
+Current Mutation: cross_mutated_1682
+Current Mutation: cross_mutated_1683
+Current Mutation: cross_mutated_1684
+Current Mutation: cross_mutated_1685
+Current Mutation: cross_mutated_1686
+Current Mutation: cross_mutated_1687
+Current Mutation: cross_mutated_1688
+Current Mutation: cross_mutated_1689
+Current Mutation: cross_mutated_1690
+Current Mutation: cross_mutated_1691
+You triggered Bug #8 !
+Segmentation fault (core dumped)
+Current Mutation: cross_mutated_1692
+Current Mutation: cross_mutated_1693
+Current Mutation: cross_mutated_1694
+Current Mutation: cross_mutated_1695
+Current Mutation: cross_mutated_1696
+Current Mutation: cross_mutated_1697
+Current Mutation: cross_mutated_1698
+Current Mutation: cross_mutated_1699
+Current Mutation: cross_mutated_1700
+Current Mutation: cross_mutated_1701
+Current Mutation: cross_mutated_1702
+Current Mutation: cross_mutated_1703
+You triggered Bug #4 !
+Segmentation fault (core dumped)
+Current Mutation: cross_mutated_1704
+Current Mutation: cross_mutated_1705
+Current Mutation: cross_mutated_1706
+Current Mutation: cross_mutated_1707
+Current Mutation: cross_mutated_1708
+Current Mutation: cross_mutated_1709
+Current Mutation: cross_mutated_1710
+Current Mutation: cross_mutated_1711
+Current Mutation: cross_mutated_1712
+Current Mutation: cross_mutated_1713
+Current Mutation: cross_mutated_1714
+Current Mutation: cross_mutated_1715
+You triggered Bug #4 !
+Segmentation fault (core dumped)
+Current Mutation: cross_mutated_1716
+Current Mutation: cross_mutated_1717
+Current Mutation: cross_mutated_1718
+Current Mutation: cross_mutated_1719
+Current Mutation: cross_mutated_1720
+Current Mutation: cross_mutated_1721
+Current Mutation: cross_mutated_1722
+Current Mutation: cross_mutated_1723
+Current Mutation: cross_mutated_1724
+Current Mutation: cross_mutated_1725
+Current Mutation: cross_mutated_1726
+Current Mutation: cross_mutated_1727
+Current Mutation: cross_mutated_1728
+Floating point exception (core dumped)
+Current Mutation: cross_mutated_1729
+You triggered Bug #7 !
+Segmentation fault (core dumped)
+Current Mutation: cross_mutated_1730
+You triggered Bug #2 !
+Segmentation fault (core dumped)
+Current Mutation: cross_mutated_1731
+Current Mutation: cross_mutated_1732
+Current Mutation: cross_mutated_1733
+Current Mutation: cross_mutated_1734
+Current Mutation: cross_mutated_1735
+Current Mutation: cross_mutated_1736
+Current Mutation: cross_mutated_1737
+Current Mutation: cross_mutated_1738
+You triggered Bug #4 !
+Segmentation fault (core dumped)
+Current Mutation: cross_mutated_1739
+Current Mutation: cross_mutated_1740
+Current Mutation: cross_mutated_1741
+You triggered Bug #7 !
+Segmentation fault (core dumped)
+Current Mutation: cross_mutated_1742
+Current Mutation: cross_mutated_1743
+Current Mutation: cross_mutated_1744
+Current Mutation: cross_mutated_1745
+Current Mutation: cross_mutated_1746
+Current Mutation: cross_mutated_1747
+You triggered Bug #8 !
+Segmentation fault (core dumped)
+Current Mutation: cross_mutated_1748
+Current Mutation: cross_mutated_1749
+Current Mutation: cross_mutated_1750
+You triggered Bug #8 !
+Segmentation fault (core dumped)
+Current Mutation: cross_mutated_1751
+Current Mutation: cross_mutated_1752
+Current Mutation: cross_mutated_1753
+Current Mutation: cross_mutated_1754
+Current Mutation: cross_mutated_1755
+Current Mutation: cross_mutated_1756
+Current Mutation: cross_mutated_1757
+Current Mutation: cross_mutated_1758
+Current Mutation: cross_mutated_1759
+Current Mutation: cross_mutated_1760
+Current Mutation: cross_mutated_1761
+Current Mutation: cross_mutated_1762
+Current Mutation: cross_mutated_1763
+Current Mutation: cross_mutated_1764
+Current Mutation: cross_mutated_1765
+Current Mutation: cross_mutated_1766
+Current Mutation: cross_mutated_1767
+Current Mutation: cross_mutated_1768
+Current Mutation: cross_mutated_1769
+Current Mutation: cross_mutated_1770
+Current Mutation: cross_mutated_1771
+Current Mutation: cross_mutated_1772
+Current Mutation: cross_mutated_1773
+Current Mutation: cross_mutated_1774
+Current Mutation: cross_mutated_1775
+Current Mutation: cross_mutated_1776
+You triggered Bug #4 !
+Segmentation fault (core dumped)
+Current Mutation: cross_mutated_1777
+Current Mutation: cross_mutated_1778
+Current Mutation: cross_mutated_1779
+Current Mutation: cross_mutated_1780
+Current Mutation: cross_mutated_1781
+You triggered Bug #4 !
+Segmentation fault (core dumped)
+Current Mutation: cross_mutated_1782
+Current Mutation: cross_mutated_1783
+Current Mutation: cross_mutated_1784
+Current Mutation: cross_mutated_1785
+You triggered Bug #4 !
+Segmentation fault (core dumped)
+Current Mutation: cross_mutated_1786
+Current Mutation: cross_mutated_1787
+Current Mutation: cross_mutated_1788
+Current Mutation: cross_mutated_1789
+Current Mutation: cross_mutated_1790
+Current Mutation: cross_mutated_1791
+Current Mutation: cross_mutated_1792
+Current Mutation: cross_mutated_1793
+Current Mutation: cross_mutated_1794
+Current Mutation: cross_mutated_1795
+Current Mutation: cross_mutated_1796
+Current Mutation: cross_mutated_1797
+Current Mutation: cross_mutated_1798
+You triggered Bug #2 !
+Segmentation fault (core dumped)
+Current Mutation: cross_mutated_1799
+Current Mutation: cross_mutated_1800
+Current Mutation: cross_mutated_1801
+Current Mutation: cross_mutated_1802
+Current Mutation: cross_mutated_1803
+Current Mutation: cross_mutated_1804
+Current Mutation: cross_mutated_1805
+Current Mutation: cross_mutated_1806
+Current Mutation: cross_mutated_1807
+Current Mutation: cross_mutated_1808
+Current Mutation: cross_mutated_1809
+Current Mutation: cross_mutated_1810
+Current Mutation: cross_mutated_1811
+Current Mutation: cross_mutated_1812
+Current Mutation: cross_mutated_1813
+Current Mutation: cross_mutated_1814
+Current Mutation: cross_mutated_1815
+Current Mutation: cross_mutated_1816
+Current Mutation: cross_mutated_1817
+You triggered Bug #4 !
+Segmentation fault (core dumped)
+Current Mutation: cross_mutated_1818
+Current Mutation: cross_mutated_1819
+Current Mutation: cross_mutated_1820
+Current Mutation: cross_mutated_1821
+Current Mutation: cross_mutated_1822
+You triggered Bug #4 !
+Segmentation fault (core dumped)
+Current Mutation: cross_mutated_1823
+Current Mutation: cross_mutated_1824
+Current Mutation: cross_mutated_1825
+Current Mutation: cross_mutated_1826
+Current Mutation: cross_mutated_1827
+Current Mutation: cross_mutated_1828
+Current Mutation: cross_mutated_1829
+Current Mutation: cross_mutated_1830
+Current Mutation: cross_mutated_1831
+Current Mutation: cross_mutated_1832
+Current Mutation: cross_mutated_1833
+Current Mutation: cross_mutated_1834
+Current Mutation: cross_mutated_1835
+Current Mutation: cross_mutated_1836
+Current Mutation: cross_mutated_1837
+Current Mutation: cross_mutated_1838
+Current Mutation: cross_mutated_1839
+Current Mutation: cross_mutated_1840
+You triggered Bug #4 !
+Segmentation fault (core dumped)
+Current Mutation: cross_mutated_1841
+Current Mutation: cross_mutated_1842
+Current Mutation: cross_mutated_1843
+Current Mutation: cross_mutated_1844
+Current Mutation: cross_mutated_1845
+Current Mutation: cross_mutated_1846
+Current Mutation: cross_mutated_1847
+Current Mutation: cross_mutated_1848
+Current Mutation: cross_mutated_1849
+Current Mutation: cross_mutated_1850
+Current Mutation: cross_mutated_1851
+Current Mutation: cross_mutated_1852
+Current Mutation: cross_mutated_1853
+Current Mutation: cross_mutated_1854
+Current Mutation: cross_mutated_1855
+Current Mutation: cross_mutated_1856
+Current Mutation: cross_mutated_1857
+Current Mutation: cross_mutated_1858
+You triggered Bug #8 !
+Segmentation fault (core dumped)
+Current Mutation: cross_mutated_1859
+Current Mutation: cross_mutated_1860
+Current Mutation: cross_mutated_1861
+You triggered Bug #4 !
+Segmentation fault (core dumped)
+Current Mutation: cross_mutated_1862
+Current Mutation: cross_mutated_1863
+Current Mutation: cross_mutated_1864
+You triggered Bug #4 !
+Segmentation fault (core dumped)
+Current Mutation: cross_mutated_1865
+Current Mutation: cross_mutated_1866
+Current Mutation: cross_mutated_1867
+Current Mutation: cross_mutated_1868
+Current Mutation: cross_mutated_1869
+Current Mutation: cross_mutated_1870
+Current Mutation: cross_mutated_1871
+Current Mutation: cross_mutated_1872
+Current Mutation: cross_mutated_1873
+Current Mutation: cross_mutated_1874
+Current Mutation: cross_mutated_1875
+Current Mutation: cross_mutated_1876
+Current Mutation: cross_mutated_1877
+Current Mutation: cross_mutated_1878
+Current Mutation: cross_mutated_1879
+Current Mutation: cross_mutated_1880
+You triggered Bug #4 !
+Segmentation fault (core dumped)
+Current Mutation: cross_mutated_1881
+Current Mutation: cross_mutated_1882
+Current Mutation: cross_mutated_1883
+Current Mutation: cross_mutated_1884
+Current Mutation: cross_mutated_1885
+Current Mutation: cross_mutated_1886
+Current Mutation: cross_mutated_1887
+Current Mutation: cross_mutated_1888
+Current Mutation: cross_mutated_1889
+Current Mutation: cross_mutated_1890
+Current Mutation: cross_mutated_1891
+You triggered Bug #8 !
+Segmentation fault (core dumped)
+Current Mutation: cross_mutated_1892
+Current Mutation: cross_mutated_1893
+You triggered Bug #8 !
+Segmentation fault (core dumped)
+Current Mutation: cross_mutated_1894
+You triggered Bug #5 !
+Segmentation fault (core dumped)
+Current Mutation: cross_mutated_1895
+Current Mutation: cross_mutated_1896
+Current Mutation: cross_mutated_1897
+Current Mutation: cross_mutated_1898
+Current Mutation: cross_mutated_1899
+Current Mutation: cross_mutated_1900
+Current Mutation: cross_mutated_1901
+Current Mutation: cross_mutated_1902
+Current Mutation: cross_mutated_1903
+Current Mutation: cross_mutated_1904
+Current Mutation: cross_mutated_1905
+Current Mutation: cross_mutated_1906
+Current Mutation: cross_mutated_1907
+Current Mutation: cross_mutated_1908
+You triggered Bug #4 !
+Segmentation fault (core dumped)
+Current Mutation: cross_mutated_1909
+Current Mutation: cross_mutated_1910
+Current Mutation: cross_mutated_1911
+Current Mutation: cross_mutated_1912
+Current Mutation: cross_mutated_1913
+Current Mutation: cross_mutated_1914
+Current Mutation: cross_mutated_1915
+Current Mutation: cross_mutated_1916
+Segmentation fault (core dumped)
+Current Mutation: cross_mutated_1917
+Current Mutation: cross_mutated_1918
+Current Mutation: cross_mutated_1919
+Current Mutation: cross_mutated_1920
+Current Mutation: cross_mutated_1921
+Current Mutation: cross_mutated_1922
+You triggered Bug #4 !
+Segmentation fault (core dumped)
+Current Mutation: cross_mutated_1923
+Current Mutation: cross_mutated_1924
+Current Mutation: cross_mutated_1925
+Current Mutation: cross_mutated_1926
+Current Mutation: cross_mutated_1927
+Current Mutation: cross_mutated_1928
+You triggered Bug #8 !
+Segmentation fault (core dumped)
+Current Mutation: cross_mutated_1929
+Current Mutation: cross_mutated_1930
+Current Mutation: cross_mutated_1931
+You triggered Bug #4 !
+Segmentation fault (core dumped)
+Current Mutation: cross_mutated_1932
+Current Mutation: cross_mutated_1933
+Current Mutation: cross_mutated_1934
+Current Mutation: cross_mutated_1935
+Current Mutation: cross_mutated_1936
+Current Mutation: cross_mutated_1937
+Segmentation fault (core dumped)
+Current Mutation: cross_mutated_1938
+Current Mutation: cross_mutated_1939
+Current Mutation: cross_mutated_1940
+Current Mutation: cross_mutated_1941
+Current Mutation: cross_mutated_1942
+Current Mutation: cross_mutated_1943
+Current Mutation: cross_mutated_1944
+Current Mutation: cross_mutated_1945
+Current Mutation: cross_mutated_1946
+Current Mutation: cross_mutated_1947
+Current Mutation: cross_mutated_1948
+Current Mutation: cross_mutated_1949
+Current Mutation: cross_mutated_1950
+Current Mutation: cross_mutated_1951
+Current Mutation: cross_mutated_1952
+Current Mutation: cross_mutated_1953
+Current Mutation: cross_mutated_1954
+Current Mutation: cross_mutated_1955
+Current Mutation: cross_mutated_1956
+Current Mutation: cross_mutated_1957
+Current Mutation: cross_mutated_1958
+Current Mutation: cross_mutated_1959
+Current Mutation: cross_mutated_1960
+Current Mutation: cross_mutated_1961
+Current Mutation: cross_mutated_1962
+Current Mutation: cross_mutated_1963
+Current Mutation: cross_mutated_1964
+Current Mutation: cross_mutated_1965
+Current Mutation: cross_mutated_1966
+Current Mutation: cross_mutated_1967
+Current Mutation: cross_mutated_1968
+Current Mutation: cross_mutated_1969
+You triggered Bug #8 !
+Segmentation fault (core dumped)
+Current Mutation: cross_mutated_1970
+Current Mutation: cross_mutated_1971
+Current Mutation: cross_mutated_1972
+Current Mutation: cross_mutated_1973
+Current Mutation: cross_mutated_1974
+Current Mutation: cross_mutated_1975
+You triggered Bug #8 !
+Segmentation fault (core dumped)
+Current Mutation: cross_mutated_1976
+Current Mutation: cross_mutated_1977
+Current Mutation: cross_mutated_1978
+Current Mutation: cross_mutated_1979
+Current Mutation: cross_mutated_1980
+Current Mutation: cross_mutated_1981
+Current Mutation: cross_mutated_1982
+Current Mutation: cross_mutated_1983
+Current Mutation: cross_mutated_1984
+Current Mutation: cross_mutated_1985
+Current Mutation: cross_mutated_1986
+You triggered Bug #8 !
+Segmentation fault (core dumped)
+Current Mutation: cross_mutated_1987
+Current Mutation: cross_mutated_1988
+Current Mutation: cross_mutated_1989
+Current Mutation: cross_mutated_1990
+Current Mutation: cross_mutated_1991
+Current Mutation: cross_mutated_1992
+Current Mutation: cross_mutated_1993
+Current Mutation: cross_mutated_1994
+Current Mutation: cross_mutated_1995
+Current Mutation: cross_mutated_1996
+Current Mutation: cross_mutated_1997
+Current Mutation: cross_mutated_1998
+Current Mutation: cross_mutated_1999
+Evaluating results
+{'1': 0, '2': 0, '3': 0, '4': 3, '5': 0, '6': 0, '7': 0, '8': 3}
+Missing Bug #1.
+Missing Bug #2.
+Missing Bug #3.
+Missing Bug #5.
+Missing Bug #6.
+Missing Bug #7.
