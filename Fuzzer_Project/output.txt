@@ -1,0 +1,65 @@
+You triggered Bug #4 !
+Segmentation fault (core dumped)
+You triggered Bug #4 !
+Segmentation fault (core dumped)
+You triggered Bug #4 !
+Segmentation fault (core dumped)
+Current Mutation: cross_mutated_0
+Current Mutation: cross_mutated_1
+Current Mutation: cross_mutated_2
+Current Mutation: cross_mutated_3
+Current Mutation: cross_mutated_4
+Current Mutation: cross_mutated_5
+Current Mutation: cross_mutated_6
+Current Mutation: cross_mutated_7
+Current Mutation: cross_mutated_8
+Current Mutation: cross_mutated_9
+Current Mutation: cross_mutated_10
+Current Mutation: cross_mutated_11
+Current Mutation: cross_mutated_12
+Current Mutation: cross_mutated_13
+Current Mutation: cross_mutated_14
+Current Mutation: cross_mutated_15
+Current Mutation: cross_mutated_16
+Current Mutation: cross_mutated_17
+Current Mutation: cross_mutated_18
+Current Mutation: cross_mutated_19
+Current Mutation: cross_mutated_20
+Current Mutation: cross_mutated_21
+Current Mutation: cross_mutated_22
+Current Mutation: cross_mutated_23
+Current Mutation: cross_mutated_24
+Current Mutation: cross_mutated_25
+Current Mutation: cross_mutated_26
+Current Mutation: cross_mutated_27
+Current Mutation: cross_mutated_28
+Current Mutation: cross_mutated_29
+Current Mutation: cross_mutated_30
+Current Mutation: cross_mutated_31
+Current Mutation: cross_mutated_32
+Current Mutation: cross_mutated_33
+Current Mutation: cross_mutated_34
+Current Mutation: cross_mutated_35
+Current Mutation: cross_mutated_36
+Current Mutation: cross_mutated_37
+Current Mutation: cross_mutated_38
+Current Mutation: cross_mutated_39
+Current Mutation: cross_mutated_40
+Current Mutation: cross_mutated_41
+Current Mutation: cross_mutated_42
+Current Mutation: cross_mutated_43
+Current Mutation: cross_mutated_44
+Current Mutation: cross_mutated_45
+Current Mutation: cross_mutated_46
+Current Mutation: cross_mutated_47
+Current Mutation: cross_mutated_48
+Current Mutation: cross_mutated_49
+Evaluating results
+{'1': 0, '2': 0, '3': 0, '4': 3, '5': 0, '6': 0, '7': 0, '8': 0}
+Missing Bug #1.
+Missing Bug #2.
+Missing Bug #3.
+Missing Bug #5.
+Missing Bug #6.
+Missing Bug #7.
+Missing Bug #8.
