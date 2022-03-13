@@ -34,7 +34,7 @@ def mutate(iteration, output_filename):
     '''
     
     # Number of modifications to make
-    # num_modifications = random.randint(1,len(bytes_d)-4)
+    # num_modifications = random.randint(1,len(bytes_d)-1)
     num_modifications = 1
     
     # print(f"num_modifications: {num_modifications}")
@@ -43,9 +43,9 @@ def mutate(iteration, output_filename):
     for i in range(num_modifications):
         
         # Random position to modify
-        rand_pos = random.randint(2,len(bytes_d)-2)
+        # rand_pos = random.randint(2,len(bytes_d)-2)
         # random.seed(time.time())
-        # rand_pos = random.randint(0,len(bytes_d)-1)
+        rand_pos = random.randint(0,len(bytes_d)-1)
         
         # Get random byte
         rand_byte_replacement = get_random_byte_replacement()

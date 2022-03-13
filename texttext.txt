@@ -1,3 +1,5 @@
+847523
+ 2345 78
 Current Mutation: cross_mutated_0
 You triggered Bug #5 !
 Segmentation fault (core dumped)
